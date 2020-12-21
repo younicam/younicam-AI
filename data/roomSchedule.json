@@ -1,0 +1,7888 @@
+[
+  {
+    "_id": "5fa8267c1bd2a03f4641a099",
+    "bookings": [
+      {
+        "_id": "5fa8267c1bd2a03f4641a09a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fa8267c1bd2a03f4641a09b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 7
+      },
+      {
+        "_id": "5fa8267c1bd2a03f4641a09c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 11
+      },
+      {
+        "_id": "5fa8267c1bd2a03f4641a09d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fa8267c1bd2a03f4641a09e",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-08T17:10:20.328Z"
+  },
+  {
+    "_id": "5fa859611bd2a03f4641a0e0",
+    "bookings": [
+      {
+        "_id": "5fa859611bd2a03f4641a0e1",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fa859611bd2a03f4641a0e2",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fa859611bd2a03f4641a0e3",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fa859611bd2a03f4641a0e4",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-08T20:47:29.186Z"
+  },
+  {
+    "_id": "5fa87aad1bd2a03f4641a130",
+    "bookings": [
+      {
+        "_id": "5fa87aad1bd2a03f4641a131",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a132",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a133",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a134",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a135",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a136",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a137",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a138",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a139",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a13a",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa87aad1bd2a03f4641a13b",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ec3",
+    "date": "2020-11-08T23:09:33.878Z"
+  },
+  {
+    "_id": "5fa8fb591bd2a03f4641a1e9",
+    "bookings": [
+      {
+        "_id": "5fa8fb591bd2a03f4641a1ea",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 6
+      },
+      {
+        "_id": "5fa8fb591bd2a03f4641a1eb",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 7
+      },
+      {
+        "_id": "5fa8fb591bd2a03f4641a1ec",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 11
+      },
+      {
+        "_id": "5fa8fb591bd2a03f4641a1ed",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 8
+      },
+      {
+        "_id": "5fa8fb591bd2a03f4641a1ee",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 6
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-09T08:18:33.344Z"
+  },
+  {
+    "_id": "5fa8fc3d1bd2a03f4641a1f7",
+    "bookings": [
+      {
+        "_id": "5fa8fc3d1bd2a03f4641a1f8",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 16
+      },
+      {
+        "_id": "5fa8fc3d1bd2a03f4641a1f9",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 14
+      },
+      {
+        "_id": "5fa8fc3d1bd2a03f4641a1fa",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 18
+      },
+      {
+        "_id": "5fa8fc3d1bd2a03f4641a1fb",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 16
+      },
+      {
+        "_id": "5fa8fc3d1bd2a03f4641a1fc",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 6
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-09T08:22:21.433Z"
+  },
+  {
+    "_id": "5fa8fc9b1bd2a03f4641a203",
+    "bookings": [
+      {
+        "_id": "5fa8fc9b1bd2a03f4641a204",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 13
+      },
+      {
+        "_id": "5fa8fc9b1bd2a03f4641a205",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 14
+      },
+      {
+        "_id": "5fa8fc9b1bd2a03f4641a206",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 15
+      },
+      {
+        "_id": "5fa8fc9b1bd2a03f4641a207",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 18
+      },
+      {
+        "_id": "5fa8fc9b1bd2a03f4641a208",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 9
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-09T08:23:55.389Z"
+  },
+  {
+    "_id": "5fa8fcf21bd2a03f4641a20d",
+    "bookings": [
+      {
+        "_id": "5fa8fcf21bd2a03f4641a20e",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 13
+      },
+      {
+        "_id": "5fa8fcf21bd2a03f4641a20f",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 11
+      },
+      {
+        "_id": "5fa8fcf21bd2a03f4641a210",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 18
+      },
+      {
+        "_id": "5fa8fcf21bd2a03f4641a211",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 18
+      },
+      {
+        "_id": "5fa8fcf21bd2a03f4641a212",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 16
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-09T08:25:22.411Z"
+  },
+  {
+    "_id": "5fa92a841bd2a03f4641a319",
+    "bookings": [
+      {
+        "_id": "5fa92a841bd2a03f4641a31a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fa92a841bd2a03f4641a31b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fa92a841bd2a03f4641a31c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fa92a841bd2a03f4641a31d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 6
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-09T11:39:48.395Z"
+  },
+  {
+    "_id": "5fa933751bd2a03f4641a32e",
+    "bookings": [
+      {
+        "_id": "5fa933751bd2a03f4641a32f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fa933751bd2a03f4641a330",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fa933751bd2a03f4641a331",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fa933751bd2a03f4641a332",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-09T12:17:57.249Z"
+  },
+  {
+    "_id": "5fa968cf1bd2a03f4641a438",
+    "bookings": [
+      {
+        "_id": "5fa968cf1bd2a03f4641a439",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fa968cf1bd2a03f4641a43a",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fa968cf1bd2a03f4641a43b",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fa968cf1bd2a03f4641a43c",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-09T16:05:35.221Z"
+  },
+  {
+    "_id": "5fa971f71bd2a03f4641a443",
+    "bookings": [
+      {
+        "_id": "5fa971f71bd2a03f4641a444",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fa971f71bd2a03f4641a445",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fa971f71bd2a03f4641a446",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fa971f71bd2a03f4641a447",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-09T16:44:39.238Z"
+  },
+  {
+    "_id": "5fa9af961bd2a03f4641a48a",
+    "bookings": [
+      {
+        "_id": "5fa9af961bd2a03f4641a48b",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a48c",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a48d",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a48e",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a48f",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a490",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a491",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a492",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 3
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a493",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 3
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a494",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a495",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ebd",
+    "date": "2020-11-09T21:07:34.847Z"
+  },
+  {
+    "_id": "5fa9bb261bd2a03f4641a4c0",
+    "bookings": [
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c1",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c2",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c3",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c4",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c5",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c6",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c7",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c8",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4c9",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4ca",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4cb",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-09T21:56:54.603Z"
+  },
+  {
+    "_id": "5faa478b1bd2a03f4641a527",
+    "bookings": [
+      {
+        "_id": "5faa478b1bd2a03f4641a528",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5faa478b1bd2a03f4641a529",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5faa478b1bd2a03f4641a52a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5faa478b1bd2a03f4641a52b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-10T07:55:55.149Z"
+  },
+  {
+    "_id": "5faa8adf1bd2a03f4641a6a4",
+    "bookings": [
+      {
+        "_id": "5faa8adf1bd2a03f4641a6a5",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5faa8adf1bd2a03f4641a6a6",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5faa8adf1bd2a03f4641a6a7",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5faa8adf1bd2a03f4641a6a8",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-10T12:43:11.169Z"
+  },
+  {
+    "_id": "5faa91731bd2a03f4641a71a",
+    "bookings": [
+      {
+        "_id": "5faa91731bd2a03f4641a71b",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a71c",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a71d",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a71e",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a71f",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a720",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a721",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 2
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a722",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a723",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a724",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a725",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-11-10T13:11:15.957Z"
+  },
+  {
+    "_id": "5faabab41bd2a03f4641a809",
+    "bookings": [
+      {
+        "_id": "5faabab41bd2a03f4641a80a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5faabab41bd2a03f4641a80b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5faabab41bd2a03f4641a80c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5faabab41bd2a03f4641a80d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-10T16:07:16.237Z"
+  },
+  {
+    "_id": "5fab1be31bd2a03f4641a8a1",
+    "bookings": [
+      {
+        "_id": "5fab1be31bd2a03f4641a8a2",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a3",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a4",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a5",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a6",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a7",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a8",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8a9",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8aa",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8ab",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8ac",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-10T23:01:55.486Z"
+  },
+  {
+    "_id": "5fab20a71bd2a03f4641a8b6",
+    "bookings": [
+      {
+        "_id": "5fab20a71bd2a03f4641a8b7",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8b8",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8b9",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8ba",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8bb",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8bc",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8bd",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8be",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8bf",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8c0",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8c1",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-11-10T23:22:15.541Z"
+  },
+  {
+    "_id": "5fab992a1bd2a03f4641a904",
+    "bookings": [
+      {
+        "_id": "5fab992a1bd2a03f4641a905",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fab992a1bd2a03f4641a906",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fab992a1bd2a03f4641a907",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 6
+      },
+      {
+        "_id": "5fab992a1bd2a03f4641a908",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-11T07:56:26.447Z"
+  },
+  {
+    "_id": "5fabbd0a1bd2a03f4641aa87",
+    "bookings": [
+      {
+        "_id": "5fabbd0a1bd2a03f4641aa88",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fabbd0a1bd2a03f4641aa89",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fabbd0a1bd2a03f4641aa8a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fabbd0a1bd2a03f4641aa8b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-11T10:29:30.440Z"
+  },
+  {
+    "_id": "5fabbe931bd2a03f4641aa97",
+    "bookings": [
+      {
+        "_id": "5fabbe931bd2a03f4641aa98",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fabbe931bd2a03f4641aa99",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fabbe931bd2a03f4641aa9a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fabbe931bd2a03f4641aa9b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-11T10:36:03.840Z"
+  },
+  {
+    "_id": "5fabeb0364f3b8af345479e0",
+    "bookings": [
+      {
+        "_id": "5fabeb0364f3b8af345479e1",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e2",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e3",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e4",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e5",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e6",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e7",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e8",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479e9",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479ea",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479eb",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-11T13:45:39.787Z"
+  },
+  {
+    "_id": "5fac453564f3b8af34547a82",
+    "bookings": [
+      {
+        "_id": "5fac453564f3b8af34547a83",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fac453564f3b8af34547a84",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fac453564f3b8af34547a85",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fac453564f3b8af34547a86",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-11T20:10:29.205Z"
+  },
+  {
+    "_id": "5facd88164f3b8af34547ad4",
+    "bookings": [
+      {
+        "_id": "5facd88164f3b8af34547ad5",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5facd88164f3b8af34547ad6",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5facd88164f3b8af34547ad7",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5facd88164f3b8af34547ad8",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5facd88164f3b8af34547ad9",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facd88164f3b8af34547ada",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facd88164f3b8af34547adb",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facd88164f3b8af34547adc",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facd88164f3b8af34547add",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facd88164f3b8af34547ade",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facd88164f3b8af34547adf",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-12T06:38:57.717Z"
+  },
+  {
+    "_id": "5face7aa64f3b8af34547b01",
+    "bookings": [
+      {
+        "_id": "5face7aa64f3b8af34547b02",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 13
+      },
+      {
+        "_id": "5face7aa64f3b8af34547b03",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 14
+      },
+      {
+        "_id": "5face7aa64f3b8af34547b04",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 29
+      },
+      {
+        "_id": "5face7aa64f3b8af34547b05",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 33
+      },
+      {
+        "_id": "5face7aa64f3b8af34547b06",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 10
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-12T07:43:38.788Z"
+  },
+  {
+    "_id": "5face82164f3b8af34547b0e",
+    "bookings": [
+      {
+        "_id": "5face82164f3b8af34547b0f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5face82164f3b8af34547b10",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5face82164f3b8af34547b11",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 9
+      },
+      {
+        "_id": "5face82164f3b8af34547b12",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      },
+      {
+        "_id": "5face82164f3b8af34547b13",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-12T07:45:37.079Z"
+  },
+  {
+    "_id": "5facef9c64f3b8af34547b73",
+    "bookings": [
+      {
+        "_id": "5facef9c64f3b8af34547b74",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b75",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b76",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b77",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b78",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b79",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b7a",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b7b",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b7c",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b7d",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b7e",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-12T08:17:32.354Z"
+  },
+  {
+    "_id": "5facf99f64f3b8af34547b99",
+    "bookings": [
+      {
+        "_id": "5facf99f64f3b8af34547b9a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5facf99f64f3b8af34547b9b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5facf99f64f3b8af34547b9c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 11
+      },
+      {
+        "_id": "5facf99f64f3b8af34547b9d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 11
+      },
+      {
+        "_id": "5facf99f64f3b8af34547b9e",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-12T09:00:15.960Z"
+  },
+  {
+    "_id": "5fad2f4264f3b8af34547c78",
+    "bookings": [
+      {
+        "_id": "5fad2f4264f3b8af34547c79",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c7a",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c7b",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c7c",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c7d",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c7e",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c7f",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c80",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c81",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c82",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c83",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-12T12:49:06.102Z"
+  },
+  {
+    "_id": "5fad311964f3b8af34547c91",
+    "bookings": [
+      {
+        "_id": "5fad311964f3b8af34547c92",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c93",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c94",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fad311964f3b8af34547c95",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fad311964f3b8af34547c96",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c97",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c98",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c99",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c9a",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c9b",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fad311964f3b8af34547c9c",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-12T12:56:57.996Z"
+  },
+  {
+    "_id": "5fae3bdc64f3b8af34547df6",
+    "bookings": [
+      {
+        "_id": "5fae3bdc64f3b8af34547df7",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fae3bdc64f3b8af34547df8",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fae3bdc64f3b8af34547df9",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fae3bdc64f3b8af34547dfa",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 5
+      },
+      {
+        "_id": "5fae3bdc64f3b8af34547dfb",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-13T07:55:08.231Z"
+  },
+  {
+    "_id": "5fae5a5733a4610e65769cfe",
+    "bookings": [
+      {
+        "_id": "5fae5a5733a4610e65769cff",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fae5a5733a4610e65769d00",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fae5a5733a4610e65769d01",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fae5a5733a4610e65769d02",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-13T10:05:11.737Z"
+  },
+  {
+    "_id": "5fae6e9833a4610e65769d24",
+    "bookings": [
+      {
+        "_id": "5fae6e9833a4610e65769d25",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fae6e9833a4610e65769d26",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fae6e9833a4610e65769d27",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fae6e9833a4610e65769d28",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-13T11:31:36.976Z"
+  },
+  {
+    "_id": "5fafdcce33a4610e65769e49",
+    "bookings": [
+      {
+        "_id": "5fafdcce33a4610e65769e4a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fafdcce33a4610e65769e4b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fafdcce33a4610e65769e4c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fafdcce33a4610e65769e4d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc686fc7a3450ea06e837",
+    "date": "2020-11-14T13:34:06.102Z"
+  },
+  {
+    "_id": "5fb105cc33a4610e65769e64",
+    "bookings": [
+      {
+        "_id": "5fb105cc33a4610e65769e65",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb105cc33a4610e65769e66",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fb105cc33a4610e65769e67",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb105cc33a4610e65769e68",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-15T10:41:16.618Z"
+  },
+  {
+    "_id": "5fb12ebe33a4610e65769e76",
+    "bookings": [
+      {
+        "_id": "5fb12ebe33a4610e65769e77",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 14
+      },
+      {
+        "_id": "5fb12ebe33a4610e65769e78",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 14
+      },
+      {
+        "_id": "5fb12ebe33a4610e65769e79",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 18
+      },
+      {
+        "_id": "5fb12ebe33a4610e65769e7a",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 21
+      },
+      {
+        "_id": "5fb12ebe33a4610e65769e7b",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 16
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-15T13:35:58.935Z"
+  },
+  {
+    "_id": "5fb17c9233a4610e65769ed0",
+    "bookings": [
+      {
+        "_id": "5fb17c9233a4610e65769ed1",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb17c9233a4610e65769ed2",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb17c9233a4610e65769ed3",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb17c9233a4610e65769ed4",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-15T19:08:02.136Z"
+  },
+  {
+    "_id": "5fb1b01233a4610e65769f24",
+    "bookings": [
+      {
+        "_id": "5fb1b01233a4610e65769f25",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb1b01233a4610e65769f26",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fb1b01233a4610e65769f27",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb1b01233a4610e65769f28",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-15T22:47:46.076Z"
+  },
+  {
+    "_id": "5fb25d6433a4610e6576a0a0",
+    "bookings": [
+      {
+        "_id": "5fb25d6433a4610e6576a0a1",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a2",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a3",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 3
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a4",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a5",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a6",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a7",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a8",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0a9",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0aa",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0ab",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-11-16T11:07:16.376Z"
+  },
+  {
+    "_id": "5fb26a4633a4610e6576a0c3",
+    "bookings": [
+      {
+        "_id": "5fb26a4633a4610e6576a0c4",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb26a4633a4610e6576a0c5",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fb26a4633a4610e6576a0c6",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb26a4633a4610e6576a0c7",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc686fc7a3450ea06e837",
+    "date": "2020-11-16T12:02:14.400Z"
+  },
+  {
+    "_id": "5fb26b0933a4610e6576a0ce",
+    "bookings": [
+      {
+        "_id": "5fb26b0933a4610e6576a0cf",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb26b0933a4610e6576a0d0",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fb26b0933a4610e6576a0d1",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fb26b0933a4610e6576a0d2",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-16T12:05:29.451Z"
+  },
+  {
+    "_id": "5fb2785433a4610e6576a0f8",
+    "bookings": [
+      {
+        "_id": "5fb2785433a4610e6576a0f9",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2785433a4610e6576a0fa",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2785433a4610e6576a0fb",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2785433a4610e6576a0fc",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-16T13:02:12.780Z"
+  },
+  {
+    "_id": "5fb27dfc33a4610e6576a159",
+    "bookings": [
+      {
+        "_id": "5fb27dfc33a4610e6576a15a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fb27dfc33a4610e6576a15b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fb27dfc33a4610e6576a15c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fb27dfc33a4610e6576a15d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-16T13:26:20.532Z"
+  },
+  {
+    "_id": "5fb28c1933a4610e6576a18d",
+    "bookings": [
+      {
+        "_id": "5fb28c1933a4610e6576a18e",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb28c1933a4610e6576a18f",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb28c1933a4610e6576a190",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb28c1933a4610e6576a191",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-16T14:26:33.360Z"
+  },
+  {
+    "_id": "5fb2b36633a4610e6576a1c0",
+    "bookings": [
+      {
+        "_id": "5fb2b36633a4610e6576a1c1",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2b36633a4610e6576a1c2",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fb2b36633a4610e6576a1c3",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 11
+      },
+      {
+        "_id": "5fb2b36633a4610e6576a1c4",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fb2b36633a4610e6576a1c5",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-16T17:14:14.412Z"
+  },
+  {
+    "_id": "5fb2cd4633a4610e6576a1e4",
+    "bookings": [
+      {
+        "_id": "5fb2cd4633a4610e6576a1e5",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 11
+      },
+      {
+        "_id": "5fb2cd4633a4610e6576a1e6",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 16
+      },
+      {
+        "_id": "5fb2cd4633a4610e6576a1e7",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 35
+      },
+      {
+        "_id": "5fb2cd4633a4610e6576a1e8",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 24
+      },
+      {
+        "_id": "5fb2cd4633a4610e6576a1e9",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 7
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-16T19:04:38.583Z"
+  },
+  {
+    "_id": "5fb2f3b633a4610e6576a221",
+    "bookings": [
+      {
+        "_id": "5fb2f3b633a4610e6576a222",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a223",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a224",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a225",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a226",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a227",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a228",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a229",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a22a",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a22b",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a22c",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-11-16T21:48:38.066Z"
+  },
+  {
+    "_id": "5fb2fc1033a4610e6576a24e",
+    "bookings": [
+      {
+        "_id": "5fb2fc1033a4610e6576a24f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fb2fc1033a4610e6576a250",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fb2fc1033a4610e6576a251",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 11
+      },
+      {
+        "_id": "5fb2fc1033a4610e6576a252",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 8
+      },
+      {
+        "_id": "5fb2fc1033a4610e6576a253",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 5
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-16T22:24:16.572Z"
+  },
+  {
+    "_id": "5fb2fcef33a4610e6576a262",
+    "bookings": [
+      {
+        "_id": "5fb2fcef33a4610e6576a263",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2fcef33a4610e6576a264",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb2fcef33a4610e6576a265",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fb2fcef33a4610e6576a266",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-16T22:27:59.525Z"
+  },
+  {
+    "_id": "5fb3d8ba33a4610e6576a4b7",
+    "bookings": [
+      {
+        "_id": "5fb3d8ba33a4610e6576a4b8",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb3d8ba33a4610e6576a4b9",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fb3d8ba33a4610e6576a4ba",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fb3d8ba33a4610e6576a4bb",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-17T14:05:46.245Z"
+  },
+  {
+    "_id": "5fb3dede47f18b6282e26010",
+    "bookings": [
+      {
+        "_id": "5fb3dede47f18b6282e26011",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb3dede47f18b6282e26012",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb3dede47f18b6282e26013",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb3dede47f18b6282e26014",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-17T14:31:58.421Z"
+  },
+  {
+    "_id": "5fb4211c47f18b6282e26055",
+    "bookings": [
+      {
+        "_id": "5fb4211c47f18b6282e26056",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4211c47f18b6282e26057",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4211c47f18b6282e26058",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4211c47f18b6282e26059",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4211c47f18b6282e2605a",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4211c47f18b6282e2605b",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4211c47f18b6282e2605c",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4211c47f18b6282e2605d",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4211c47f18b6282e2605e",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4211c47f18b6282e2605f",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4211c47f18b6282e26060",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-17T19:14:36.717Z"
+  },
+  {
+    "_id": "5fb4470a47f18b6282e26098",
+    "bookings": [
+      {
+        "_id": "5fb4470a47f18b6282e26099",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4470a47f18b6282e2609a",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e2609b",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e2609c",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e2609d",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e2609e",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e2609f",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e260a0",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e260a1",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e260a2",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4470a47f18b6282e260a3",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-17T21:56:26.911Z"
+  },
+  {
+    "_id": "5fb4471847f18b6282e260a7",
+    "bookings": [
+      {
+        "_id": "5fb4471847f18b6282e260a8",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260a9",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4471847f18b6282e260aa",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260ab",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260ac",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260ad",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260ae",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260af",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260b0",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260b1",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4471847f18b6282e260b2",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ebd",
+    "date": "2020-11-17T21:56:40.544Z"
+  },
+  {
+    "_id": "5fb449d647f18b6282e260c2",
+    "bookings": [
+      {
+        "_id": "5fb449d647f18b6282e260c3",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb449d647f18b6282e260c4",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb449d647f18b6282e260c5",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fb449d647f18b6282e260c6",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-17T22:08:22.952Z"
+  },
+  {
+    "_id": "5fb4c38247f18b6282e260f1",
+    "bookings": [
+      {
+        "_id": "5fb4c38247f18b6282e260f2",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fb4c38247f18b6282e260f3",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fb4c38247f18b6282e260f4",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4c38247f18b6282e260f5",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-18T06:47:30.193Z"
+  },
+  {
+    "_id": "5fb4c39a47f18b6282e260f9",
+    "bookings": [
+      {
+        "_id": "5fb4c39a47f18b6282e260fa",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fb4c39a47f18b6282e260fb",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fb4c39a47f18b6282e260fc",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4c39a47f18b6282e260fd",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-18T06:47:54.315Z"
+  },
+  {
+    "_id": "5fb4c3c547f18b6282e26101",
+    "bookings": [
+      {
+        "_id": "5fb4c3c547f18b6282e26102",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 6
+      },
+      {
+        "_id": "5fb4c3c547f18b6282e26103",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fb4c3c547f18b6282e26104",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fb4c3c547f18b6282e26105",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-18T06:48:37.754Z"
+  },
+  {
+    "_id": "5fb4c3ff47f18b6282e26109",
+    "bookings": [
+      {
+        "_id": "5fb4c3ff47f18b6282e2610a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fb4c3ff47f18b6282e2610b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fb4c3ff47f18b6282e2610c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fb4c3ff47f18b6282e2610d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-18T06:49:35.414Z"
+  },
+  {
+    "_id": "5fb4c41147f18b6282e26111",
+    "bookings": [
+      {
+        "_id": "5fb4c41147f18b6282e26112",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fb4c41147f18b6282e26113",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4c41147f18b6282e26114",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fb4c41147f18b6282e26115",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-18T06:49:53.335Z"
+  },
+  {
+    "_id": "5fb4fdf447f18b6282e262bd",
+    "bookings": [
+      {
+        "_id": "5fb4fdf447f18b6282e262be",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262bf",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c0",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c1",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c2",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c3",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c4",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c5",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c6",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c7",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c8",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-18T10:56:52.133Z"
+  },
+  {
+    "_id": "5fb51b0547f18b6282e26330",
+    "bookings": [
+      {
+        "_id": "5fb51b0547f18b6282e26331",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb51b0547f18b6282e26332",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb51b0547f18b6282e26333",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fb51b0547f18b6282e26334",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-18T13:00:53.241Z"
+  },
+  {
+    "_id": "5fb571ed47f18b6282e2643b",
+    "bookings": [
+      {
+        "_id": "5fb571ed47f18b6282e2643c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 12
+      },
+      {
+        "_id": "5fb571ed47f18b6282e2643d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 12
+      },
+      {
+        "_id": "5fb571ed47f18b6282e2643e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 12
+      },
+      {
+        "_id": "5fb571ed47f18b6282e2643f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 17
+      },
+      {
+        "_id": "5fb571ed47f18b6282e26440",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 6
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-18T19:11:41.144Z"
+  },
+  {
+    "_id": "5fb60d7347f18b6282e2651a",
+    "bookings": [
+      {
+        "_id": "5fb60d7347f18b6282e2651b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 7
+      },
+      {
+        "_id": "5fb60d7347f18b6282e2651c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 7
+      },
+      {
+        "_id": "5fb60d7347f18b6282e2651d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fb60d7347f18b6282e2651e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 7
+      },
+      {
+        "_id": "5fb60d7347f18b6282e2651f",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-19T06:15:15.270Z"
+  },
+  {
+    "_id": "5fb6361f47f18b6282e265b1",
+    "bookings": [
+      {
+        "_id": "5fb6361f47f18b6282e265b2",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6361f47f18b6282e265b3",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6361f47f18b6282e265b4",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fb6361f47f18b6282e265b5",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-19T09:08:47.159Z"
+  },
+  {
+    "_id": "5fb6781647f18b6282e266dc",
+    "bookings": [
+      {
+        "_id": "5fb6781647f18b6282e266dd",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6781647f18b6282e266de",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6781647f18b6282e266df",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6781647f18b6282e266e0",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-19T13:50:14.542Z"
+  },
+  {
+    "_id": "5fb6c75b47f18b6282e26777",
+    "bookings": [
+      {
+        "_id": "5fb6c75b47f18b6282e26778",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6c75b47f18b6282e26779",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fb6c75b47f18b6282e2677a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fb6c75b47f18b6282e2677b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-19T19:28:27.258Z"
+  },
+  {
+    "_id": "5fb702db47f18b6282e267de",
+    "bookings": [
+      {
+        "_id": "5fb702db47f18b6282e267df",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fb702db47f18b6282e267e0",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fb702db47f18b6282e267e1",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fb702db47f18b6282e267e2",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-19T23:42:19.426Z"
+  },
+  {
+    "_id": "5fb7e22d47f18b6282e268e1",
+    "bookings": [
+      {
+        "_id": "5fb7e22d47f18b6282e268e2",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 11
+      },
+      {
+        "_id": "5fb7e22d47f18b6282e268e3",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 11
+      },
+      {
+        "_id": "5fb7e22d47f18b6282e268e4",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 29
+      },
+      {
+        "_id": "5fb7e22d47f18b6282e268e5",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 35
+      },
+      {
+        "_id": "5fb7e22d47f18b6282e268e6",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 15
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-20T15:35:09.475Z"
+  },
+  {
+    "_id": "5fb7e37d47f18b6282e268ec",
+    "bookings": [
+      {
+        "_id": "5fb7e37d47f18b6282e268ed",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fb7e37d47f18b6282e268ee",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fb7e37d47f18b6282e268ef",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fb7e37d47f18b6282e268f0",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 10
+      },
+      {
+        "_id": "5fb7e37d47f18b6282e268f1",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-20T15:40:45.645Z"
+  },
+  {
+    "_id": "5fb8088047f18b6282e268f9",
+    "bookings": [
+      {
+        "_id": "5fb8088047f18b6282e268fa",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e268fb",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e268fc",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fb8088047f18b6282e268fd",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e268fe",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e268ff",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e26900",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e26901",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e26902",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e26903",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fb8088047f18b6282e26904",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-20T18:18:40.539Z"
+  },
+  {
+    "_id": "5fb82e0747f18b6282e2690a",
+    "bookings": [
+      {
+        "_id": "5fb82e0747f18b6282e2690b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fb82e0747f18b6282e2690c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 10
+      },
+      {
+        "_id": "5fb82e0747f18b6282e2690d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 23
+      },
+      {
+        "_id": "5fb82e0747f18b6282e2690e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 35
+      },
+      {
+        "_id": "5fb82e0747f18b6282e2690f",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 12
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-20T20:58:47.043Z"
+  },
+  {
+    "_id": "5fba3ef947f18b6282e26968",
+    "bookings": [
+      {
+        "_id": "5fba3ef947f18b6282e26969",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fba3ef947f18b6282e2696a",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fba3ef947f18b6282e2696b",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fba3ef947f18b6282e2696c",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-22T10:35:37.071Z"
+  },
+  {
+    "_id": "5fbb67d747f18b6282e26a0b",
+    "bookings": [
+      {
+        "_id": "5fbb67d747f18b6282e26a0c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fbb67d747f18b6282e26a0d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fbb67d747f18b6282e26a0e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fbb67d747f18b6282e26a0f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbb67d747f18b6282e26a10",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-23T07:42:15.551Z"
+  },
+  {
+    "_id": "5fbb67e547f18b6282e26a14",
+    "bookings": [
+      {
+        "_id": "5fbb67e547f18b6282e26a15",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fbb67e547f18b6282e26a16",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fbb67e547f18b6282e26a17",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fbb67e547f18b6282e26a18",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fbb67e547f18b6282e26a19",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-23T07:42:29.621Z"
+  },
+  {
+    "_id": "5fbb7bb247f18b6282e26b47",
+    "bookings": [
+      {
+        "_id": "5fbb7bb247f18b6282e26b48",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbb7bb247f18b6282e26b49",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fbb7bb247f18b6282e26b4a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fbb7bb247f18b6282e26b4b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-23T09:06:58.284Z"
+  },
+  {
+    "_id": "5fbb82c147f18b6282e26b6f",
+    "bookings": [
+      {
+        "_id": "5fbb82c147f18b6282e26b70",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbb82c147f18b6282e26b71",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbb82c147f18b6282e26b72",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fbb82c147f18b6282e26b73",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-23T09:37:05.726Z"
+  },
+  {
+    "_id": "5fbbcd859de5cadc7a768edc",
+    "bookings": [
+      {
+        "_id": "5fbbcd859de5cadc7a768edd",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 16
+      },
+      {
+        "_id": "5fbbcd859de5cadc7a768ede",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 16
+      },
+      {
+        "_id": "5fbbcd859de5cadc7a768edf",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 29
+      },
+      {
+        "_id": "5fbbcd859de5cadc7a768ee0",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 31
+      },
+      {
+        "_id": "5fbbcd859de5cadc7a768ee1",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 10
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-23T14:56:05.030Z"
+  },
+  {
+    "_id": "5fbbd83a9de5cadc7a768f12",
+    "bookings": [
+      {
+        "_id": "5fbbd83a9de5cadc7a768f13",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 17
+      },
+      {
+        "_id": "5fbbd83a9de5cadc7a768f14",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 17
+      },
+      {
+        "_id": "5fbbd83a9de5cadc7a768f15",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 35
+      },
+      {
+        "_id": "5fbbd83a9de5cadc7a768f16",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 35
+      },
+      {
+        "_id": "5fbbd83a9de5cadc7a768f17",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 16
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-23T15:41:46.430Z"
+  },
+  {
+    "_id": "5fbbf4c59de5cadc7a768f39",
+    "bookings": [
+      {
+        "_id": "5fbbf4c59de5cadc7a768f3a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbbf4c59de5cadc7a768f3b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbbf4c59de5cadc7a768f3c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fbbf4c59de5cadc7a768f3d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-23T17:43:33.179Z"
+  },
+  {
+    "_id": "5fbc197e9de5cadc7a768f57",
+    "bookings": [
+      {
+        "_id": "5fbc197e9de5cadc7a768f58",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fbc197e9de5cadc7a768f59",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fbc197e9de5cadc7a768f5a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fbc197e9de5cadc7a768f5b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-23T20:20:14.891Z"
+  },
+  {
+    "_id": "5fbccb479de5cadc7a7690b0",
+    "bookings": [
+      {
+        "_id": "5fbccb479de5cadc7a7690b1",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b2",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b3",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b4",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b5",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b6",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b7",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b8",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690b9",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690ba",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690bb",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-11-24T08:58:47.545Z"
+  },
+  {
+    "_id": "5fbcd4b39de5cadc7a7690e7",
+    "bookings": [
+      {
+        "_id": "5fbcd4b39de5cadc7a7690e8",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcd4b39de5cadc7a7690e9",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fbcd4b39de5cadc7a7690ea",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcd4b39de5cadc7a7690eb",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-24T09:38:59.444Z"
+  },
+  {
+    "_id": "5fbcdc679de5cadc7a76911c",
+    "bookings": [
+      {
+        "_id": "5fbcdc679de5cadc7a76911d",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcdc679de5cadc7a76911e",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcdc679de5cadc7a76911f",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fbcdc679de5cadc7a769120",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-24T10:11:51.483Z"
+  },
+  {
+    "_id": "5fbcef239de5cadc7a769177",
+    "bookings": [
+      {
+        "_id": "5fbcef239de5cadc7a769178",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a769179",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a76917a",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a76917b",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a76917c",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbcef239de5cadc7a76917d",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a76917e",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a76917f",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a769180",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a769181",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbcef239de5cadc7a769182",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8eee",
+    "date": "2020-11-24T11:31:47.928Z"
+  },
+  {
+    "_id": "5fbd45509de5cadc7a76930a",
+    "bookings": [
+      {
+        "_id": "5fbd45509de5cadc7a76930b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbd45509de5cadc7a76930c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbd45509de5cadc7a76930d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fbd45509de5cadc7a76930e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-24T17:39:28.852Z"
+  },
+  {
+    "_id": "5fbdd1e59de5cadc7a7693aa",
+    "bookings": [
+      {
+        "_id": "5fbdd1e59de5cadc7a7693ab",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fbdd1e59de5cadc7a7693ac",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fbdd1e59de5cadc7a7693ad",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 7
+      },
+      {
+        "_id": "5fbdd1e59de5cadc7a7693ae",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fbdd1e59de5cadc7a7693af",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-25T03:39:17.367Z"
+  },
+  {
+    "_id": "5fbe102f9de5cadc7a769421",
+    "bookings": [
+      {
+        "_id": "5fbe102f9de5cadc7a769422",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769423",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769424",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769425",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769426",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769427",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769428",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a769429",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a76942a",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a76942b",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a76942c",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-25T08:05:03.467Z"
+  },
+  {
+    "_id": "5fbe10309de5cadc7a769430",
+    "bookings": [
+      {
+        "_id": "5fbe10309de5cadc7a769431",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769432",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769433",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769434",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769435",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769436",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769437",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769438",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a769439",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a76943a",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe10309de5cadc7a76943b",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-11-25T08:05:04.156Z"
+  },
+  {
+    "_id": "5fbe1fb79de5cadc7a769516",
+    "bookings": [
+      {
+        "_id": "5fbe1fb79de5cadc7a769517",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe1fb79de5cadc7a769518",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe1fb79de5cadc7a769519",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe1fb79de5cadc7a76951a",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-25T09:11:19.244Z"
+  },
+  {
+    "_id": "5fbe22809de5cadc7a769534",
+    "bookings": [
+      {
+        "_id": "5fbe22809de5cadc7a769535",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 8
+      },
+      {
+        "_id": "5fbe22809de5cadc7a769536",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 12
+      },
+      {
+        "_id": "5fbe22809de5cadc7a769537",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 11
+      },
+      {
+        "_id": "5fbe22809de5cadc7a769538",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 11
+      },
+      {
+        "_id": "5fbe22809de5cadc7a769539",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-25T09:23:12.982Z"
+  },
+  {
+    "_id": "5fbe57df9de5cadc7a7695ee",
+    "bookings": [
+      {
+        "_id": "5fbe57df9de5cadc7a7695ef",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f0",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f1",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f2",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f3",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f4",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f5",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f6",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f7",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f8",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695f9",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-25T13:10:55.244Z"
+  },
+  {
+    "_id": "5fbe58ba9de5cadc7a769629",
+    "bookings": [
+      {
+        "_id": "5fbe58ba9de5cadc7a76962a",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a76962b",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a76962c",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a76962d",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a76962e",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a76962f",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a769630",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a769631",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a769632",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a769633",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe58ba9de5cadc7a769634",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8f05",
+    "date": "2020-11-25T13:14:34.244Z"
+  },
+  {
+    "_id": "5fbe73229de5cadc7a7696b6",
+    "bookings": [
+      {
+        "_id": "5fbe73229de5cadc7a7696b7",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe73229de5cadc7a7696b8",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbe73229de5cadc7a7696b9",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fbe73229de5cadc7a7696ba",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-25T15:07:14.146Z"
+  },
+  {
+    "_id": "5fbee82a9de5cadc7a769755",
+    "bookings": [
+      {
+        "_id": "5fbee82a9de5cadc7a769756",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbee82a9de5cadc7a769757",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbee82a9de5cadc7a769758",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fbee82a9de5cadc7a769759",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-25T23:26:34.811Z"
+  },
+  {
+    "_id": "5fbf563b9de5cadc7a769769",
+    "bookings": [
+      {
+        "_id": "5fbf563b9de5cadc7a76976a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fbf563b9de5cadc7a76976b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fbf563b9de5cadc7a76976c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fbf563b9de5cadc7a76976d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-26T07:16:11.872Z"
+  },
+  {
+    "_id": "5fbf56679de5cadc7a769771",
+    "bookings": [
+      {
+        "_id": "5fbf56679de5cadc7a769772",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 5
+      },
+      {
+        "_id": "5fbf56679de5cadc7a769773",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 7
+      },
+      {
+        "_id": "5fbf56679de5cadc7a769774",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 5
+      },
+      {
+        "_id": "5fbf56679de5cadc7a769775",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-26T07:16:55.795Z"
+  },
+  {
+    "_id": "5fbf567d9de5cadc7a76977a",
+    "bookings": [
+      {
+        "_id": "5fbf567d9de5cadc7a76977b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fbf567d9de5cadc7a76977c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fbf567d9de5cadc7a76977d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 7
+      },
+      {
+        "_id": "5fbf567d9de5cadc7a76977e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-26T07:17:17.954Z"
+  },
+  {
+    "_id": "5fbf568d9de5cadc7a769782",
+    "bookings": [
+      {
+        "_id": "5fbf568d9de5cadc7a769783",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fbf568d9de5cadc7a769784",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbf568d9de5cadc7a769785",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fbf568d9de5cadc7a769786",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-26T07:17:33.804Z"
+  },
+  {
+    "_id": "5fbf68069de5cadc7a76981b",
+    "bookings": [
+      {
+        "_id": "5fbf68069de5cadc7a76981c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fbf68069de5cadc7a76981d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fbf68069de5cadc7a76981e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fbf68069de5cadc7a76981f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbf68069de5cadc7a769820",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-26T08:32:06.568Z"
+  },
+  {
+    "_id": "5fbf7ce39de5cadc7a76987c",
+    "bookings": [
+      {
+        "_id": "5fbf7ce39de5cadc7a76987d",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fbf7ce39de5cadc7a76987e",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbf7ce39de5cadc7a76987f",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fbf7ce39de5cadc7a769880",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-26T10:01:07.355Z"
+  },
+  {
+    "_id": "5fbfe5119de5cadc7a7699ec",
+    "bookings": [
+      {
+        "_id": "5fbfe5119de5cadc7a7699ed",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fbfe5119de5cadc7a7699ee",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fbfe5119de5cadc7a7699ef",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fbfe5119de5cadc7a7699f0",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc627fc7a3450ea06e836",
+    "date": "2020-11-26T17:25:37.632Z"
+  },
+  {
+    "_id": "5fc0022e9de5cadc7a769a01",
+    "bookings": [
+      {
+        "_id": "5fc0022e9de5cadc7a769a02",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 19
+      },
+      {
+        "_id": "5fc0022e9de5cadc7a769a03",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 17
+      },
+      {
+        "_id": "5fc0022e9de5cadc7a769a04",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 30
+      },
+      {
+        "_id": "5fc0022e9de5cadc7a769a05",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 35
+      },
+      {
+        "_id": "5fc0022e9de5cadc7a769a06",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 18
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-26T19:29:50.480Z"
+  },
+  {
+    "_id": "5fc03ae09de5cadc7a769c27",
+    "bookings": [
+      {
+        "_id": "5fc03ae09de5cadc7a769c28",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc03ae09de5cadc7a769c29",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc03ae09de5cadc7a769c2a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc03ae09de5cadc7a769c2b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-11-26T23:31:44.988Z"
+  },
+  {
+    "_id": "5fc0bd769de5cadc7a769c9e",
+    "bookings": [
+      {
+        "_id": "5fc0bd769de5cadc7a769c9f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fc0bd769de5cadc7a769ca0",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fc0bd769de5cadc7a769ca1",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 10
+      },
+      {
+        "_id": "5fc0bd769de5cadc7a769ca2",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 6
+      },
+      {
+        "_id": "5fc0bd769de5cadc7a769ca3",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-27T08:48:54.945Z"
+  },
+  {
+    "_id": "5fc0c4529de5cadc7a769cd4",
+    "bookings": [
+      {
+        "_id": "5fc0c4529de5cadc7a769cd5",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc0c4529de5cadc7a769cd6",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc0c4529de5cadc7a769cd7",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fc0c4529de5cadc7a769cd8",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-27T09:18:10.370Z"
+  },
+  {
+    "_id": "5fc33e4f7b7ad540c1b7e831",
+    "bookings": [
+      {
+        "_id": "5fc33e4f7b7ad540c1b7e832",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 10
+      },
+      {
+        "_id": "5fc33e4f7b7ad540c1b7e833",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 14
+      },
+      {
+        "_id": "5fc33e4f7b7ad540c1b7e834",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 25
+      },
+      {
+        "_id": "5fc33e4f7b7ad540c1b7e835",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 28
+      },
+      {
+        "_id": "5fc33e4f7b7ad540c1b7e836",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 15
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-29T06:23:11.748Z"
+  },
+  {
+    "_id": "5fc33e797b7ad540c1b7e83c",
+    "bookings": [
+      {
+        "_id": "5fc33e797b7ad540c1b7e83d",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 11
+      },
+      {
+        "_id": "5fc33e797b7ad540c1b7e83e",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 8
+      },
+      {
+        "_id": "5fc33e797b7ad540c1b7e83f",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 22
+      },
+      {
+        "_id": "5fc33e797b7ad540c1b7e840",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 23
+      },
+      {
+        "_id": "5fc33e797b7ad540c1b7e841",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 8
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-29T06:23:53.632Z"
+  },
+  {
+    "_id": "5fc3ec99f4d5216c0f6cf053",
+    "bookings": [
+      {
+        "_id": "5fc3ec99f4d5216c0f6cf054",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc3ec99f4d5216c0f6cf055",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc3ec99f4d5216c0f6cf056",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc3ec99f4d5216c0f6cf057",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-11-29T18:46:49.288Z"
+  },
+  {
+    "_id": "5fc3f12cf4d5216c0f6cf063",
+    "bookings": [
+      {
+        "_id": "5fc3f12cf4d5216c0f6cf064",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fc3f12cf4d5216c0f6cf065",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fc3f12cf4d5216c0f6cf066",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 5
+      },
+      {
+        "_id": "5fc3f12cf4d5216c0f6cf067",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-11-29T19:06:20.576Z"
+  },
+  {
+    "_id": "5fc44209f4d5216c0f6cf0e1",
+    "bookings": [
+      {
+        "_id": "5fc44209f4d5216c0f6cf0e2",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc44209f4d5216c0f6cf0e3",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc44209f4d5216c0f6cf0e4",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fc44209f4d5216c0f6cf0e5",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-11-30T00:51:21.976Z"
+  },
+  {
+    "_id": "5fc4d04cf4d5216c0f6cf2a2",
+    "bookings": [
+      {
+        "_id": "5fc4d04cf4d5216c0f6cf2a3",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fc4d04cf4d5216c0f6cf2a4",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fc4d04cf4d5216c0f6cf2a5",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fc4d04cf4d5216c0f6cf2a6",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fc4d04cf4d5216c0f6cf2a7",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-11-30T10:58:20.879Z"
+  },
+  {
+    "_id": "5fc530f6f4d5216c0f6cf41b",
+    "bookings": [
+      {
+        "_id": "5fc530f6f4d5216c0f6cf41c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 12
+      },
+      {
+        "_id": "5fc530f6f4d5216c0f6cf41d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 10
+      },
+      {
+        "_id": "5fc530f6f4d5216c0f6cf41e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 13
+      },
+      {
+        "_id": "5fc530f6f4d5216c0f6cf41f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 14
+      },
+      {
+        "_id": "5fc530f6f4d5216c0f6cf420",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 6
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-11-30T17:50:46.280Z"
+  },
+  {
+    "_id": "5fc55f07f4d5216c0f6cf45d",
+    "bookings": [
+      {
+        "_id": "5fc55f07f4d5216c0f6cf45e",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc55f07f4d5216c0f6cf45f",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc55f07f4d5216c0f6cf460",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc55f07f4d5216c0f6cf461",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd4928db89350a13a80d8",
+    "date": "2020-11-30T21:07:19.142Z"
+  },
+  {
+    "_id": "5fc60e77f4d5216c0f6cf5f9",
+    "bookings": [
+      {
+        "_id": "5fc60e77f4d5216c0f6cf5fa",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc60e77f4d5216c0f6cf5fb",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc60e77f4d5216c0f6cf5fc",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc60e77f4d5216c0f6cf5fd",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-12-01T09:35:51.537Z"
+  },
+  {
+    "_id": "5fc61b51f4d5216c0f6cf64a",
+    "bookings": [
+      {
+        "_id": "5fc61b51f4d5216c0f6cf64b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc61b51f4d5216c0f6cf64c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc61b51f4d5216c0f6cf64d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fc61b51f4d5216c0f6cf64e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-01T10:30:41.449Z"
+  },
+  {
+    "_id": "5fc62e22f4d5216c0f6cf6a1",
+    "bookings": [
+      {
+        "_id": "5fc62e22f4d5216c0f6cf6a2",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc62e22f4d5216c0f6cf6a3",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc62e22f4d5216c0f6cf6a4",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc62e22f4d5216c0f6cf6a5",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-12-01T11:50:58.044Z"
+  },
+  {
+    "_id": "5fc64f83f4d5216c0f6cf7cd",
+    "bookings": [
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7ce",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7cf",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d0",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d1",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d2",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d3",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d4",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d5",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d6",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d7",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d8",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8efd",
+    "date": "2020-12-01T14:13:23.390Z"
+  },
+  {
+    "_id": "5fc6665321015899996e8e76",
+    "bookings": [
+      {
+        "_id": "5fc6665321015899996e8e77",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc6665321015899996e8e78",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc6665321015899996e8e79",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fc6665321015899996e8e7a",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc6665321015899996e8e7b",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-01T15:50:43.533Z"
+  },
+  {
+    "_id": "5fc6819921015899996e8ec3",
+    "bookings": [
+      {
+        "_id": "5fc6819921015899996e8ec4",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 13
+      },
+      {
+        "_id": "5fc6819921015899996e8ec5",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 13
+      },
+      {
+        "_id": "5fc6819921015899996e8ec6",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 27
+      },
+      {
+        "_id": "5fc6819921015899996e8ec7",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 31
+      },
+      {
+        "_id": "5fc6819921015899996e8ec8",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 17
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-01T17:47:05.427Z"
+  },
+  {
+    "_id": "5fc681a621015899996e8ecc",
+    "bookings": [
+      {
+        "_id": "5fc681a621015899996e8ecd",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 13
+      },
+      {
+        "_id": "5fc681a621015899996e8ece",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 13
+      },
+      {
+        "_id": "5fc681a621015899996e8ecf",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 20
+      },
+      {
+        "_id": "5fc681a621015899996e8ed0",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 26
+      },
+      {
+        "_id": "5fc681a621015899996e8ed1",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 18
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-01T17:47:18.800Z"
+  },
+  {
+    "_id": "5fc6ac8f21015899996e8f0c",
+    "bookings": [
+      {
+        "_id": "5fc6ac8f21015899996e8f0d",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc6ac8f21015899996e8f0e",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc6ac8f21015899996e8f0f",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc6ac8f21015899996e8f10",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-12-01T20:50:23.691Z"
+  },
+  {
+    "_id": "5fc7478121015899996e8f6e",
+    "bookings": [
+      {
+        "_id": "5fc7478121015899996e8f6f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fc7478121015899996e8f70",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fc7478121015899996e8f71",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fc7478121015899996e8f72",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-02T07:51:29.279Z"
+  },
+  {
+    "_id": "5fc7543121015899996e9087",
+    "bookings": [
+      {
+        "_id": "5fc7543121015899996e9088",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc7543121015899996e9089",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc7543121015899996e908a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 8
+      },
+      {
+        "_id": "5fc7543121015899996e908b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 5
+      },
+      {
+        "_id": "5fc7543121015899996e908c",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-02T08:45:37.141Z"
+  },
+  {
+    "_id": "5fc75a0121015899996e90a8",
+    "bookings": [
+      {
+        "_id": "5fc75a0121015899996e90a9",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc75a0121015899996e90aa",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc75a0121015899996e90ab",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fc75a0121015899996e90ac",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-02T09:10:25.871Z"
+  },
+  {
+    "_id": "5fc778c721015899996e9153",
+    "bookings": [
+      {
+        "_id": "5fc778c721015899996e9154",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc778c721015899996e9155",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc778c721015899996e9156",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fc778c721015899996e9157",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-12-02T11:21:43.481Z"
+  },
+  {
+    "_id": "5fc80fca21015899996e9332",
+    "bookings": [
+      {
+        "_id": "5fc80fca21015899996e9333",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e9334",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e9335",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e9336",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e9337",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e9338",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fc80fca21015899996e9339",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e933a",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e933b",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e933c",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc80fca21015899996e933d",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ebd",
+    "date": "2020-12-02T22:06:02.953Z"
+  },
+  {
+    "_id": "5fc89b4b21015899996e93a8",
+    "bookings": [
+      {
+        "_id": "5fc89b4b21015899996e93a9",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fc89b4b21015899996e93aa",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc89b4b21015899996e93ab",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fc89b4b21015899996e93ac",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-03T08:01:15.831Z"
+  },
+  {
+    "_id": "5fc8bce921015899996e9478",
+    "bookings": [
+      {
+        "_id": "5fc8bce921015899996e9479",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fc8bce921015899996e947a",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc8bce921015899996e947b",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fc8bce921015899996e947c",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-12-03T10:24:41.857Z"
+  },
+  {
+    "_id": "5fc91a2beb6dbced74b94f08",
+    "bookings": [
+      {
+        "_id": "5fc91a2beb6dbced74b94f09",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fc91a2beb6dbced74b94f0a",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc91a2beb6dbced74b94f0b",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fc91a2beb6dbced74b94f0c",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-12-03T17:02:35.142Z"
+  },
+  {
+    "_id": "5fc927dfeb6dbced74b94f1b",
+    "bookings": [
+      {
+        "_id": "5fc927dfeb6dbced74b94f1c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fc927dfeb6dbced74b94f1d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc927dfeb6dbced74b94f1e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fc927dfeb6dbced74b94f1f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-03T18:01:03.652Z"
+  },
+  {
+    "_id": "5fc932f9eb6dbced74b94f2e",
+    "bookings": [
+      {
+        "_id": "5fc932f9eb6dbced74b94f2f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fc932f9eb6dbced74b94f30",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fc932f9eb6dbced74b94f31",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fc932f9eb6dbced74b94f32",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fc932f9eb6dbced74b94f33",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-03T18:48:25.686Z"
+  },
+  {
+    "_id": "5fc94cb0eb6dbced74b94f52",
+    "bookings": [
+      {
+        "_id": "5fc94cb0eb6dbced74b94f53",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc94cb0eb6dbced74b94f54",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fc94cb0eb6dbced74b94f55",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fc94cb0eb6dbced74b94f56",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-12-03T20:38:08.253Z"
+  },
+  {
+    "_id": "5fc95447eb6dbced74b94f75",
+    "bookings": [
+      {
+        "_id": "5fc95447eb6dbced74b94f76",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc95447eb6dbced74b94f77",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fc95447eb6dbced74b94f78",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 3
+      },
+      {
+        "_id": "5fc95447eb6dbced74b94f79",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fc95447eb6dbced74b94f7a",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-03T21:10:31.627Z"
+  },
+  {
+    "_id": "5fc95689eb6dbced74b94f80",
+    "bookings": [
+      {
+        "_id": "5fc95689eb6dbced74b94f81",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fc95689eb6dbced74b94f82",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fc95689eb6dbced74b94f83",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fc95689eb6dbced74b94f84",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-03T21:20:09.224Z"
+  },
+  {
+    "_id": "5fc9c7a7eb6dbced74b94fe3",
+    "bookings": [
+      {
+        "_id": "5fc9c7a7eb6dbced74b94fe4",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 8
+      },
+      {
+        "_id": "5fc9c7a7eb6dbced74b94fe5",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 8
+      },
+      {
+        "_id": "5fc9c7a7eb6dbced74b94fe6",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 18
+      },
+      {
+        "_id": "5fc9c7a7eb6dbced74b94fe7",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 19
+      },
+      {
+        "_id": "5fc9c7a7eb6dbced74b94fe8",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-04T05:22:47.481Z"
+  },
+  {
+    "_id": "5fc9f936eb6dbced74b95061",
+    "bookings": [
+      {
+        "_id": "5fc9f936eb6dbced74b95062",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95063",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95064",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95065",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95066",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95067",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95068",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b95069",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b9506a",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b9506b",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b9506c",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-12-04T08:54:14.475Z"
+  },
+  {
+    "_id": "5fc9fdeeeb6dbced74b95089",
+    "bookings": [
+      {
+        "_id": "5fc9fdeeeb6dbced74b9508a",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b9508b",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b9508c",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b9508d",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b9508e",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b9508f",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b95090",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b95091",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b95092",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b95093",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b95094",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-12-04T09:14:22.115Z"
+  },
+  {
+    "_id": "5fca9dc18cf562071a9c15ee",
+    "bookings": [
+      {
+        "_id": "5fca9dc18cf562071a9c15ef",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 13
+      },
+      {
+        "_id": "5fca9dc18cf562071a9c15f0",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 12
+      },
+      {
+        "_id": "5fca9dc18cf562071a9c15f1",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 23
+      },
+      {
+        "_id": "5fca9dc18cf562071a9c15f2",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 26
+      },
+      {
+        "_id": "5fca9dc18cf562071a9c15f3",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 10
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-04T20:36:17.359Z"
+  },
+  {
+    "_id": "5fcd3fec8cf562071a9c171c",
+    "bookings": [
+      {
+        "_id": "5fcd3fec8cf562071a9c171d",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fcd3fec8cf562071a9c171e",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fcd3fec8cf562071a9c171f",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fcd3fec8cf562071a9c1720",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-06T20:32:44.732Z"
+  },
+  {
+    "_id": "5fcd59ca8cf562071a9c1749",
+    "bookings": [
+      {
+        "_id": "5fcd59ca8cf562071a9c174a",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fcd59ca8cf562071a9c174b",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fcd59ca8cf562071a9c174c",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fcd59ca8cf562071a9c174d",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fcd59ca8cf562071a9c174e",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-06T22:23:06.352Z"
+  },
+  {
+    "_id": "5fcd82b78cf562071a9c1764",
+    "bookings": [
+      {
+        "_id": "5fcd82b78cf562071a9c1765",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fcd82b78cf562071a9c1766",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fcd82b78cf562071a9c1767",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 5
+      },
+      {
+        "_id": "5fcd82b78cf562071a9c1768",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 5
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-07T01:17:43.840Z"
+  },
+  {
+    "_id": "5fcdd0e98cf562071a9c1776",
+    "bookings": [
+      {
+        "_id": "5fcdd0e98cf562071a9c1777",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdd0e98cf562071a9c1778",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fcdd0e98cf562071a9c1779",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 5
+      },
+      {
+        "_id": "5fcdd0e98cf562071a9c177a",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fcdd0e98cf562071a9c177b",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-07T06:51:21.016Z"
+  },
+  {
+    "_id": "5fcdd0fa8cf562071a9c177f",
+    "bookings": [
+      {
+        "_id": "5fcdd0fa8cf562071a9c1780",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fcdd0fa8cf562071a9c1781",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fcdd0fa8cf562071a9c1782",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 7
+      },
+      {
+        "_id": "5fcdd0fa8cf562071a9c1783",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fcdd0fa8cf562071a9c1784",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-07T06:51:38.459Z"
+  },
+  {
+    "_id": "5fcdefed8cf562071a9c1798",
+    "bookings": [
+      {
+        "_id": "5fcdefed8cf562071a9c1799",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c179a",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c179b",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c179c",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c179d",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c179e",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c179f",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c17a0",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c17a1",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c17a2",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c17a3",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-12-07T09:03:41.714Z"
+  },
+  {
+    "_id": "5fce46c88cf562071a9c17ff",
+    "bookings": [
+      {
+        "_id": "5fce46c88cf562071a9c1800",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 12
+      },
+      {
+        "_id": "5fce46c88cf562071a9c1801",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 9
+      },
+      {
+        "_id": "5fce46c88cf562071a9c1802",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 22
+      },
+      {
+        "_id": "5fce46c88cf562071a9c1803",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 23
+      },
+      {
+        "_id": "5fce46c88cf562071a9c1804",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 9
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-07T15:14:16.887Z"
+  },
+  {
+    "_id": "5fcf49408cf562071a9c1874",
+    "bookings": [
+      {
+        "_id": "5fcf49408cf562071a9c1875",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fcf49408cf562071a9c1876",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fcf49408cf562071a9c1877",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fcf49408cf562071a9c1878",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-12-08T09:37:04.183Z"
+  },
+  {
+    "_id": "5fcf4b918cf562071a9c187d",
+    "bookings": [
+      {
+        "_id": "5fcf4b918cf562071a9c187e",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fcf4b918cf562071a9c187f",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fcf4b918cf562071a9c1880",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fcf4b918cf562071a9c1881",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fcf4b918cf562071a9c1882",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-08T09:46:57.482Z"
+  },
+  {
+    "_id": "5fcfe1748cf562071a9c1906",
+    "bookings": [
+      {
+        "_id": "5fcfe1748cf562071a9c1907",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fcfe1748cf562071a9c1908",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fcfe1748cf562071a9c1909",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fcfe1748cf562071a9c190a",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-08T20:26:28.081Z"
+  },
+  {
+    "_id": "5fd07dd38cf562071a9c1975",
+    "bookings": [
+      {
+        "_id": "5fd07dd38cf562071a9c1976",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd07dd38cf562071a9c1977",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd07dd38cf562071a9c1978",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd07dd38cf562071a9c1979",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc7f1fc7a3450ea06e83a",
+    "date": "2020-12-09T07:33:39.698Z"
+  },
+  {
+    "_id": "5fd082d98cf562071a9c1997",
+    "bookings": [
+      {
+        "_id": "5fd082d98cf562071a9c1998",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 6
+      },
+      {
+        "_id": "5fd082d98cf562071a9c1999",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fd082d98cf562071a9c199a",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fd082d98cf562071a9c199b",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-09T07:55:05.863Z"
+  },
+  {
+    "_id": "5fd09e268cf562071a9c1a88",
+    "bookings": [
+      {
+        "_id": "5fd09e268cf562071a9c1a89",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fd09e268cf562071a9c1a8a",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fd09e268cf562071a9c1a8b",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fd09e268cf562071a9c1a8c",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-09T09:51:34.981Z"
+  },
+  {
+    "_id": "5fd0a1b68cf562071a9c1ab4",
+    "bookings": [
+      {
+        "_id": "5fd0a1b68cf562071a9c1ab5",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1ab6",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1ab7",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1ab8",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1ab9",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1aba",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1abb",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1abc",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1abd",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1abe",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0a1b68cf562071a9c1abf",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ef0",
+    "date": "2020-12-09T10:06:46.329Z"
+  },
+  {
+    "_id": "5fd0ce1c8cf562071a9c1b54",
+    "bookings": [
+      {
+        "_id": "5fd0ce1c8cf562071a9c1b55",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fd0ce1c8cf562071a9c1b56",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0ce1c8cf562071a9c1b57",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fd0ce1c8cf562071a9c1b58",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-09T13:16:12.350Z"
+  },
+  {
+    "_id": "5fd0cee78cf562071a9c1b73",
+    "bookings": [
+      {
+        "_id": "5fd0cee78cf562071a9c1b74",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd0cee78cf562071a9c1b75",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fd0cee78cf562071a9c1b76",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fd0cee78cf562071a9c1b77",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-09T13:19:35.286Z"
+  },
+  {
+    "_id": "5fd208818cf562071a9c1dc5",
+    "bookings": [
+      {
+        "_id": "5fd208818cf562071a9c1dc6",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd208818cf562071a9c1dc7",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd208818cf562071a9c1dc8",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fd208818cf562071a9c1dc9",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-10T11:37:37.492Z"
+  },
+  {
+    "_id": "5fd289d18cf562071a9c1f30",
+    "bookings": [
+      {
+        "_id": "5fd289d18cf562071a9c1f31",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd289d18cf562071a9c1f32",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd289d18cf562071a9c1f33",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 6
+      },
+      {
+        "_id": "5fd289d18cf562071a9c1f34",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 5
+      },
+      {
+        "_id": "5fd289d18cf562071a9c1f35",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-10T20:49:21.465Z"
+  },
+  {
+    "_id": "5fd33a0c8cf562071a9c1fdf",
+    "bookings": [
+      {
+        "_id": "5fd33a0c8cf562071a9c1fe0",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd33a0c8cf562071a9c1fe1",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fd33a0c8cf562071a9c1fe2",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd33a0c8cf562071a9c1fe3",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-11T09:21:16.287Z"
+  },
+  {
+    "_id": "5fd5367cff3b76b96dd78c4b",
+    "bookings": [
+      {
+        "_id": "5fd5367cff3b76b96dd78c4c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 19
+      },
+      {
+        "_id": "5fd5367cff3b76b96dd78c4d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 17
+      },
+      {
+        "_id": "5fd5367cff3b76b96dd78c4e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 31
+      },
+      {
+        "_id": "5fd5367cff3b76b96dd78c4f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 30
+      },
+      {
+        "_id": "5fd5367cff3b76b96dd78c50",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 12
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-12T21:30:36.813Z"
+  },
+  {
+    "_id": "5fd5d63aff3b76b96dd78c85",
+    "bookings": [
+      {
+        "_id": "5fd5d63aff3b76b96dd78c86",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 12
+      },
+      {
+        "_id": "5fd5d63aff3b76b96dd78c87",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 13
+      },
+      {
+        "_id": "5fd5d63aff3b76b96dd78c88",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 32
+      },
+      {
+        "_id": "5fd5d63aff3b76b96dd78c89",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 33
+      },
+      {
+        "_id": "5fd5d63aff3b76b96dd78c8a",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 17
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-13T08:52:10.063Z"
+  },
+  {
+    "_id": "5fd5d654ff3b76b96dd78c8e",
+    "bookings": [
+      {
+        "_id": "5fd5d654ff3b76b96dd78c8f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 7
+      },
+      {
+        "_id": "5fd5d654ff3b76b96dd78c90",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 10
+      },
+      {
+        "_id": "5fd5d654ff3b76b96dd78c91",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 28
+      },
+      {
+        "_id": "5fd5d654ff3b76b96dd78c92",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 35
+      },
+      {
+        "_id": "5fd5d654ff3b76b96dd78c93",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 19
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-13T08:52:36.960Z"
+  },
+  {
+    "_id": "5fd6062cff3b76b96dd78caf",
+    "bookings": [
+      {
+        "_id": "5fd6062cff3b76b96dd78cb0",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 4
+      },
+      {
+        "_id": "5fd6062cff3b76b96dd78cb1",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 5
+      },
+      {
+        "_id": "5fd6062cff3b76b96dd78cb2",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fd6062cff3b76b96dd78cb3",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-13T12:16:44.256Z"
+  },
+  {
+    "_id": "5fd61f61ff3b76b96dd78cc7",
+    "bookings": [
+      {
+        "_id": "5fd61f61ff3b76b96dd78cc8",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fd61f61ff3b76b96dd78cc9",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fd61f61ff3b76b96dd78cca",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 5
+      },
+      {
+        "_id": "5fd61f61ff3b76b96dd78ccb",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 6
+      },
+      {
+        "_id": "5fd61f61ff3b76b96dd78ccc",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-13T14:04:17.301Z"
+  },
+  {
+    "_id": "5fd64a3fff3b76b96dd78cfc",
+    "bookings": [
+      {
+        "_id": "5fd64a3fff3b76b96dd78cfd",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 9
+      },
+      {
+        "_id": "5fd64a3fff3b76b96dd78cfe",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 5
+      },
+      {
+        "_id": "5fd64a3fff3b76b96dd78cff",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 14
+      },
+      {
+        "_id": "5fd64a3fff3b76b96dd78d00",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 12
+      },
+      {
+        "_id": "5fd64a3fff3b76b96dd78d01",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 8
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-13T17:07:11.020Z"
+  },
+  {
+    "_id": "5fd64a4aff3b76b96dd78d05",
+    "bookings": [
+      {
+        "_id": "5fd64a4aff3b76b96dd78d06",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fd64a4aff3b76b96dd78d07",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 6
+      },
+      {
+        "_id": "5fd64a4aff3b76b96dd78d08",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 12
+      },
+      {
+        "_id": "5fd64a4aff3b76b96dd78d09",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 14
+      },
+      {
+        "_id": "5fd64a4aff3b76b96dd78d0a",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 4
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-13T17:07:22.918Z"
+  },
+  {
+    "_id": "5fd65020ff3b76b96dd78d10",
+    "bookings": [
+      {
+        "_id": "5fd65020ff3b76b96dd78d11",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fd65020ff3b76b96dd78d12",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd65020ff3b76b96dd78d13",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd65020ff3b76b96dd78d14",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc686fc7a3450ea06e837",
+    "date": "2020-12-13T17:32:16.294Z"
+  },
+  {
+    "_id": "5fd685fbff3b76b96dd78da2",
+    "bookings": [
+      {
+        "_id": "5fd685fbff3b76b96dd78da3",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd685fbff3b76b96dd78da4",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fd685fbff3b76b96dd78da5",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd685fbff3b76b96dd78da6",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-12-13T21:22:03.629Z"
+  },
+  {
+    "_id": "5fd69b74ff3b76b96dd78df7",
+    "bookings": [
+      {
+        "_id": "5fd69b74ff3b76b96dd78df8",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd69b74ff3b76b96dd78df9",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fd69b74ff3b76b96dd78dfa",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fd69b74ff3b76b96dd78dfb",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-13T22:53:40.871Z"
+  },
+  {
+    "_id": "5fd71912ff3b76b96dd78e4d",
+    "bookings": [
+      {
+        "_id": "5fd71912ff3b76b96dd78e4e",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fd71912ff3b76b96dd78e4f",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fd71912ff3b76b96dd78e50",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 7
+      },
+      {
+        "_id": "5fd71912ff3b76b96dd78e51",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 6
+      },
+      {
+        "_id": "5fd71912ff3b76b96dd78e52",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-14T07:49:38.170Z"
+  },
+  {
+    "_id": "5fd7198cff3b76b96dd78e5e",
+    "bookings": [
+      {
+        "_id": "5fd7198cff3b76b96dd78e5f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd7198cff3b76b96dd78e60",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7198cff3b76b96dd78e61",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7198cff3b76b96dd78e62",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-14T07:51:40.861Z"
+  },
+  {
+    "_id": "5fd72063ff3b76b96dd78ede",
+    "bookings": [
+      {
+        "_id": "5fd72063ff3b76b96dd78edf",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee0",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee1",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee2",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee3",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee4",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee5",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee6",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee7",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee8",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78ee9",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ebd",
+    "date": "2020-12-14T08:20:51.406Z"
+  },
+  {
+    "_id": "5fd7439eff3b76b96dd7900c",
+    "bookings": [
+      {
+        "_id": "5fd7439eff3b76b96dd7900d",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd7900e",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd7900f",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79010",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79011",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79012",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79013",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79014",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79015",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79016",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7439eff3b76b96dd79017",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ee7",
+    "date": "2020-12-14T10:51:10.284Z"
+  },
+  {
+    "_id": "5fd79883ff3b76b96dd791b5",
+    "bookings": [
+      {
+        "_id": "5fd79883ff3b76b96dd791b6",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791b7",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791b8",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791b9",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791ba",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791bb",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791bc",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791bd",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791be",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791bf",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791c0",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-12-14T16:53:23.314Z"
+  },
+  {
+    "_id": "5fd7d220ff3b76b96dd79224",
+    "bookings": [
+      {
+        "_id": "5fd7d220ff3b76b96dd79225",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd79226",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd79227",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd79228",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd79229",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd7922a",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 2
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd7922b",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd7922c",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd7922d",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd7922e",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d220ff3b76b96dd7922f",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8e9e",
+    "date": "2020-12-14T20:59:12.756Z"
+  },
+  {
+    "_id": "5fd7d90bff3b76b96dd79255",
+    "bookings": [
+      {
+        "_id": "5fd7d90bff3b76b96dd79256",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fd7d90bff3b76b96dd79257",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d90bff3b76b96dd79258",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd7d90bff3b76b96dd79259",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc686fc7a3450ea06e837",
+    "date": "2020-12-14T21:28:43.474Z"
+  },
+  {
+    "_id": "5fd880ebff3b76b96dd79396",
+    "bookings": [
+      {
+        "_id": "5fd880ebff3b76b96dd79397",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd880ebff3b76b96dd79398",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd880ebff3b76b96dd79399",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd880ebff3b76b96dd7939a",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd880ebff3b76b96dd7939b",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-15T09:24:59.995Z"
+  },
+  {
+    "_id": "5fd8ad27ff3b76b96dd79483",
+    "bookings": [
+      {
+        "_id": "5fd8ad27ff3b76b96dd79484",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd8ad27ff3b76b96dd79485",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd8ad27ff3b76b96dd79486",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fd8ad27ff3b76b96dd79487",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc739fc7a3450ea06e838",
+    "date": "2020-12-15T12:33:43.137Z"
+  },
+  {
+    "_id": "5fd90793ff3b76b96dd7964f",
+    "bookings": [
+      {
+        "_id": "5fd90793ff3b76b96dd79650",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79651",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79652",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79653",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79654",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79655",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79656",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79657",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79658",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd79659",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fd90793ff3b76b96dd7965a",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ebd",
+    "date": "2020-12-15T18:59:31.229Z"
+  },
+  {
+    "_id": "5fd914c7ff3b76b96dd7967e",
+    "bookings": [
+      {
+        "_id": "5fd914c7ff3b76b96dd7967f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd914c7ff3b76b96dd79680",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fd914c7ff3b76b96dd79681",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 4
+      },
+      {
+        "_id": "5fd914c7ff3b76b96dd79682",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 7
+      },
+      {
+        "_id": "5fd914c7ff3b76b96dd79683",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-15T19:55:51.692Z"
+  },
+  {
+    "_id": "5fd93c79ff3b76b96dd796d3",
+    "bookings": [
+      {
+        "_id": "5fd93c79ff3b76b96dd796d4",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd93c79ff3b76b96dd796d5",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fd93c79ff3b76b96dd796d6",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fd93c79ff3b76b96dd796d7",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-15T22:45:13.549Z"
+  },
+  {
+    "_id": "5fd9bec4ff3b76b96dd7975a",
+    "bookings": [
+      {
+        "_id": "5fd9bec4ff3b76b96dd7975b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fd9bec4ff3b76b96dd7975c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fd9bec4ff3b76b96dd7975d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fd9bec4ff3b76b96dd7975e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-16T08:01:08.089Z"
+  },
+  {
+    "_id": "5fd9dd43ff3b76b96dd79880",
+    "bookings": [
+      {
+        "_id": "5fd9dd43ff3b76b96dd79881",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd9dd43ff3b76b96dd79882",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 3
+      },
+      {
+        "_id": "5fd9dd43ff3b76b96dd79883",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fd9dd43ff3b76b96dd79884",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fd9dd43ff3b76b96dd79885",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-16T10:11:15.110Z"
+  },
+  {
+    "_id": "5fda6eaeff3b76b96dd799fc",
+    "bookings": [
+      {
+        "_id": "5fda6eaeff3b76b96dd799fd",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fda6eaeff3b76b96dd799fe",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fda6eaeff3b76b96dd799ff",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fda6eaeff3b76b96dd79a00",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc686fc7a3450ea06e837",
+    "date": "2020-12-16T20:31:42.475Z"
+  },
+  {
+    "_id": "5fdb3b94ff3b76b96dd79b1c",
+    "bookings": [
+      {
+        "_id": "5fdb3b94ff3b76b96dd79b1d",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 3
+      },
+      {
+        "_id": "5fdb3b94ff3b76b96dd79b1e",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 4
+      },
+      {
+        "_id": "5fdb3b94ff3b76b96dd79b1f",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fdb3b94ff3b76b96dd79b20",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc55bfc7a3450ea06e835",
+    "date": "2020-12-17T11:05:56.734Z"
+  },
+  {
+    "_id": "5fdb4aa1ff3b76b96dd79b51",
+    "bookings": [
+      {
+        "_id": "5fdb4aa1ff3b76b96dd79b52",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fdb4aa1ff3b76b96dd79b53",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fdb4aa1ff3b76b96dd79b54",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fdb4aa1ff3b76b96dd79b55",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-17T12:10:09.334Z"
+  },
+  {
+    "_id": "5fdbb5e5ff3b76b96dd79c68",
+    "bookings": [
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c69",
+        "start": "09.00",
+        "end": "10.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c6a",
+        "start": "10.00",
+        "end": "11.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c6b",
+        "start": "11.00",
+        "end": "12.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c6c",
+        "start": "12.00",
+        "end": "13.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c6d",
+        "start": "13.00",
+        "end": "14.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c6e",
+        "start": "14.00",
+        "end": "15.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c6f",
+        "start": "15.00",
+        "end": "16.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c70",
+        "start": "16.00",
+        "end": "17.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c71",
+        "start": "17.00",
+        "end": "18.00",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c72",
+        "start": "18.00",
+        "end": "19.00",
+        "persons": 0
+      },
+      {
+        "_id": "5fdbb5e5ff3b76b96dd79c73",
+        "start": "19.00",
+        "end": "20.00",
+        "persons": 0
+      }
+    ],
+    "room": "5f5b4fdd400b9fbfbe0b8ebd",
+    "date": "2020-12-17T19:47:49.033Z"
+  },
+  {
+    "_id": "5fdbeea1ff3b76b96dd79cd8",
+    "bookings": [
+      {
+        "_id": "5fdbeea1ff3b76b96dd79cd9",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fdbeea1ff3b76b96dd79cda",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fdbeea1ff3b76b96dd79cdb",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fdbeea1ff3b76b96dd79cdc",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fdbeea1ff3b76b96dd79cdd",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-17T23:49:53.151Z"
+  },
+  {
+    "_id": "5fdc77b1ff3b76b96dd79d6b",
+    "bookings": [
+      {
+        "_id": "5fdc77b1ff3b76b96dd79d6c",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fdc77b1ff3b76b96dd79d6d",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fdc77b1ff3b76b96dd79d6e",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fdc77b1ff3b76b96dd79d6f",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc686fc7a3450ea06e837",
+    "date": "2020-12-18T09:34:41.628Z"
+  },
+  {
+    "_id": "5fdc8542ff3b76b96dd79dab",
+    "bookings": [
+      {
+        "_id": "5fdc8542ff3b76b96dd79dac",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fdc8542ff3b76b96dd79dad",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 0
+      },
+      {
+        "_id": "5fdc8542ff3b76b96dd79dae",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fdc8542ff3b76b96dd79daf",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5cc781fc7a3450ea06e839",
+    "date": "2020-12-18T10:32:34.679Z"
+  },
+  {
+    "_id": "5fde2cd81c7ca18763114afb",
+    "bookings": [
+      {
+        "_id": "5fde2cd81c7ca18763114afc",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 14
+      },
+      {
+        "_id": "5fde2cd81c7ca18763114afd",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 10
+      },
+      {
+        "_id": "5fde2cd81c7ca18763114afe",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 7
+      },
+      {
+        "_id": "5fde2cd81c7ca18763114aff",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 5
+      },
+      {
+        "_id": "5fde2cd81c7ca18763114b00",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 3
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-19T16:39:52.105Z"
+  },
+  {
+    "_id": "5fdf86151c7ca18763114b2a",
+    "bookings": [
+      {
+        "_id": "5fdf86151c7ca18763114b2b",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fdf86151c7ca18763114b2c",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 2
+      },
+      {
+        "_id": "5fdf86151c7ca18763114b2d",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 2
+      },
+      {
+        "_id": "5fdf86151c7ca18763114b2e",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 2
+      },
+      {
+        "_id": "5fdf86151c7ca18763114b2f",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-20T17:12:53.116Z"
+  },
+  {
+    "_id": "5fdfabe51c7ca18763114b5e",
+    "bookings": [
+      {
+        "_id": "5fdfabe51c7ca18763114b5f",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fdfabe51c7ca18763114b60",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fdfabe51c7ca18763114b61",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 0
+      },
+      {
+        "_id": "5fdfabe51c7ca18763114b62",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fdfabe51c7ca18763114b63",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 0
+      }
+    ],
+    "room": "5f5cc50bfc7a3450ea06e834",
+    "date": "2020-12-20T19:54:13.157Z"
+  },
+  {
+    "_id": "5fdfea6b1c7ca18763114b9f",
+    "bookings": [
+      {
+        "_id": "5fdfea6b1c7ca18763114ba0",
+        "start": "08.30",
+        "end": "10.30",
+        "persons": 0
+      },
+      {
+        "_id": "5fdfea6b1c7ca18763114ba1",
+        "start": "10.45",
+        "end": "12.45",
+        "persons": 1
+      },
+      {
+        "_id": "5fdfea6b1c7ca18763114ba2",
+        "start": "14.15",
+        "end": "16.15",
+        "persons": 1
+      },
+      {
+        "_id": "5fdfea6b1c7ca18763114ba3",
+        "start": "16.30",
+        "end": "18.30",
+        "persons": 1
+      },
+      {
+        "_id": "5fdfea6b1c7ca18763114ba4",
+        "start": "18.30",
+        "end": "20.30",
+        "persons": 1
+      }
+    ],
+    "room": "5f5bd5fafc7a3450ea06e81c",
+    "date": "2020-12-21T00:20:59.897Z"
+  }
+]

@@ -1,0 +1,3350 @@
+[
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e94",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 69,
+    "capienza": 10,
+    "poloDes": 15,
+    "date": "2020-10-02T19:17:16.414Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e95",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 25,
+    "capienza": 24,
+    "poloDes": 15,
+    "date": "2020-12-15T15:38:27.918Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e96",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 12,
+    "capienza": 12,
+    "poloDes": 2,
+    "date": "2020-10-29T10:10:23.875Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e97",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 16,
+    "capienza": 10,
+    "poloDes": 2,
+    "date": "2020-12-15T10:17:12.238Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e98",
+    "Sede": 1,
+    "aulaId": 7,
+    "aulaDes": 35,
+    "capienza": 76,
+    "poloDes": 18,
+    "date": "2020-12-16T10:04:16.903Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e99",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 1,
+    "capienza": 75,
+    "poloDes": 1,
+    "date": "2020-12-16T10:14:09.471Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e9a",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 19,
+    "capienza": 12,
+    "poloDes": 1,
+    "date": "2020-11-03T15:28:19.820Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e9b",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 14,
+    "capienza": 12,
+    "poloDes": 1,
+    "date": "2020-11-03T13:08:56.411Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e9c",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 21,
+    "capienza": 12,
+    "poloDes": 1,
+    "date": "2020-12-16T08:12:28.255Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e9d",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 59,
+    "capienza": 12,
+    "poloDes": 1,
+    "date": "2020-12-03T14:54:54.163Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e9e",
+    "Sede": 1,
+    "aulaId": 6,
+    "aulaDes": 46,
+    "capienza": 12,
+    "poloDes": 1,
+    "date": "2020-12-16T10:03:34.375Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fd7d220ff3b76b96dd79230",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd7d220ff3b76b96dd79224"
+      },
+      {
+        "_id": "5fd79883ff3b76b96dd791c1",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd79883ff3b76b96dd791b5"
+      },
+      {
+        "_id": "5fcdefed8cf562071a9c17a4",
+        "day": "7",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcdefed8cf562071a9c1798"
+      },
+      {
+        "_id": "5fc9fdeeeb6dbced74b95095",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc9fdeeeb6dbced74b95089"
+      },
+      {
+        "_id": "5fc9f936eb6dbced74b9506d",
+        "day": "11",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc9f936eb6dbced74b95061"
+      },
+      {
+        "_id": "5fbccb479de5cadc7a7690bc",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbccb479de5cadc7a7690b0"
+      },
+      {
+        "_id": "5fb2f3b633a4610e6576a22d",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb2f3b633a4610e6576a221"
+      },
+      {
+        "_id": "5fb25d6433a4610e6576a0ac",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb25d6433a4610e6576a0a0"
+      },
+      {
+        "_id": "5fab20a71bd2a03f4641a8c2",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fab20a71bd2a03f4641a8b6"
+      },
+      {
+        "_id": "5faa91731bd2a03f4641a726",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5faa91731bd2a03f4641a71a"
+      },
+      {
+        "_id": "5fa5724b052eb9e24c1bc3df",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa5724b052eb9e24c1bc3d3"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8e9f",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 14,
+    "capienza": 31,
+    "poloDes": 12,
+    "date": "2020-11-03T13:26:27.355Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea0",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 70,
+    "capienza": 31,
+    "poloDes": 12,
+    "date": "2020-11-03T17:19:12.587Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea1",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 18,
+    "capienza": 74,
+    "poloDes": 12,
+    "date": "2020-12-16T10:04:40.636Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea2",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 72,
+    "capienza": 32,
+    "poloDes": 11,
+    "date": "2020-11-03T11:54:49.744Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea3",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 73,
+    "capienza": 25,
+    "poloDes": 11,
+    "date": "2020-10-29T10:14:16.971Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea4",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 74,
+    "capienza": 25,
+    "poloDes": 11,
+    "date": "2020-10-28T15:10:13.704Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea5",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 60,
+    "capienza": 43,
+    "poloDes": 11,
+    "date": "2020-11-25T17:10:40.926Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea6",
+    "Sede": 1,
+    "aulaId": 6,
+    "aulaDes": 17,
+    "capienza": 26,
+    "poloDes": 11,
+    "date": "2020-12-16T10:08:55.169Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea7",
+    "Sede": 1,
+    "aulaId": 7,
+    "aulaDes": 75,
+    "capienza": 32,
+    "poloDes": 11,
+    "date": "2020-11-03T15:04:37.450Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea8",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 76,
+    "capienza": 41,
+    "poloDes": 2,
+    "date": "2020-11-03T18:00:33.479Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ea9",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 2,
+    "capienza": 25,
+    "poloDes": 2,
+    "date": "2020-12-16T09:59:18.692Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eaa",
+    "Sede": 4,
+    "aulaId": 3,
+    "aulaDes": 1,
+    "capienza": 40,
+    "poloDes": 9,
+    "date": "2020-11-03T17:19:26.320Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eab",
+    "Sede": 4,
+    "aulaId": 4,
+    "aulaDes": 19,
+    "capienza": 40,
+    "poloDes": 9,
+    "date": "2020-11-03T16:40:27.508Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eac",
+    "Sede": 4,
+    "aulaId": 5,
+    "aulaDes": 14,
+    "capienza": 19,
+    "poloDes": 9,
+    "date": "2020-10-09T09:56:47.056Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ead",
+    "Sede": 2,
+    "aulaId": 1,
+    "aulaDes": 77,
+    "capienza": 100,
+    "poloDes": 20,
+    "date": "2020-09-17T12:26:00.080Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eae",
+    "Sede": 2,
+    "aulaId": 5,
+    "aulaDes": 78,
+    "capienza": 20,
+    "poloDes": 20,
+    "date": "2020-09-12T16:12:17.823Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eaf",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 1,
+    "capienza": 120,
+    "poloDes": 5,
+    "date": "2020-12-16T10:11:08.497Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb0",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 19,
+    "capienza": 42,
+    "poloDes": 5,
+    "date": "2020-12-16T10:20:54.613Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb1",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 14,
+    "capienza": 21,
+    "poloDes": 5,
+    "date": "2020-12-14T17:45:53.062Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb2",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 21,
+    "capienza": 36,
+    "poloDes": 5,
+    "date": "2020-11-09T14:56:50.988Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb3",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 34,
+    "capienza": 21,
+    "poloDes": 5,
+    "date": "2020-12-02T11:21:31.607Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5f9592519d86130930066f6f",
+        "day": "26",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f9592519d86130930066f63"
+      },
+      {
+        "_id": "5f84913ac61207145073b63f",
+        "day": "13",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f84913ac61207145073b633"
+      },
+      {
+        "_id": "5f807019e5bc9fca682dbbcf",
+        "day": "12",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f807019e5bc9fca682dbbc3"
+      },
+      {
+        "_id": "5f7c0e2030a8b4585e2dbbbc",
+        "day": "7",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f7c0e2030a8b4585e2dbbb0"
+      },
+      {
+        "_id": "5f7ad03f01bb6c3d71184bae",
+        "day": "6",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f7ad03f01bb6c3d71184ba2"
+      },
+      {
+        "_id": "5f784dd0b8a1c2191cb5ad4f",
+        "day": "5",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f784dd0b8a1c2191cb5ad43"
+      },
+      {
+        "_id": "5f747c15578b2291afc138ee",
+        "day": "30",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f747c15578b2291afc138e2"
+      },
+      {
+        "_id": "5f628235536748c853469a19",
+        "day": "21",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f628235536748c853469a0d"
+      },
+      {
+        "_id": "5f627a63536748c853469a0a",
+        "day": "18",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f627a63536748c8534699fe"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb4",
+    "Sede": 1,
+    "aulaId": 6,
+    "aulaDes": 10,
+    "capienza": 21,
+    "poloDes": 5,
+    "date": "2020-12-16T08:18:48.767Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5f80b52be5bc9fca682dbc94",
+        "day": "12",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f80b52be5bc9fca682dbc88"
+      },
+      {
+        "_id": "5f7b1aa230a8b4585e2db0ec",
+        "day": "6",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f7b1aa230a8b4585e2db0e0"
+      },
+      {
+        "_id": "5f71ba16f8c390323b4b127e",
+        "day": "28",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f71ba16f8c390323b4b1272"
+      },
+      {
+        "_id": "5f71ba02f8c390323b4b126f",
+        "day": "29",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f71ba02f8c390323b4b1263"
+      },
+      {
+        "_id": "5f6b0ed3644894cf8ea6d084",
+        "day": "23",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f6b0ed3644894cf8ea6d078"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb5",
+    "Sede": 1,
+    "aulaId": 7,
+    "aulaDes": 16,
+    "capienza": 23,
+    "poloDes": 5,
+    "date": "2020-11-25T17:22:42.267Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb6",
+    "Sede": 1,
+    "aulaId": 9,
+    "aulaDes": 79,
+    "capienza": 32,
+    "poloDes": 5,
+    "date": "2020-11-03T12:03:21.183Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb7",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 43,
+    "capienza": 77,
+    "poloDes": 7,
+    "date": "2020-12-16T10:25:42.895Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb8",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 40,
+    "capienza": 50,
+    "poloDes": 7,
+    "date": "2020-12-02T13:05:12.107Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eb9",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 7,
+    "capienza": 50,
+    "poloDes": 7,
+    "date": "2020-12-16T09:56:04.115Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eba",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 80,
+    "capienza": 33,
+    "poloDes": 7,
+    "date": "2020-11-03T16:37:42.069Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ebb",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 29,
+    "capienza": 44,
+    "poloDes": 7,
+    "date": "2020-12-15T15:20:06.048Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ebc",
+    "Sede": 4,
+    "aulaId": 1,
+    "aulaDes": 13,
+    "capienza": 60,
+    "poloDes": 9,
+    "date": "2020-12-16T10:16:12.268Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ebd",
+    "Sede": 1,
+    "aulaId": 6,
+    "aulaDes": 51,
+    "capienza": 20,
+    "poloDes": 7,
+    "date": "2020-12-15T13:11:56.638Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fd90793ff3b76b96dd7965b",
+        "day": "16",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd90793ff3b76b96dd7964f"
+      },
+      {
+        "_id": "5fd72063ff3b76b96dd78eea",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd72063ff3b76b96dd78ede"
+      },
+      {
+        "_id": "5fc80fca21015899996e933e",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc80fca21015899996e9332"
+      },
+      {
+        "_id": "5fb4471847f18b6282e260b3",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4471847f18b6282e260a7"
+      },
+      {
+        "_id": "5fa9af961bd2a03f4641a496",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa9af961bd2a03f4641a48a"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ebe",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 15,
+    "capienza": 26,
+    "poloDes": 10,
+    "date": "2020-12-16T08:08:18.210Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ebf",
+    "Sede": 4,
+    "aulaId": 7,
+    "aulaDes": 46,
+    "capienza": 10,
+    "poloDes": 9,
+    "date": "2020-10-30T09:49:07.190Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec0",
+    "Sede": 2,
+    "aulaId": 4,
+    "aulaDes": 53,
+    "capienza": 24,
+    "poloDes": 17,
+    "date": "2020-11-19T15:07:22.935Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec1",
+    "Sede": 3,
+    "aulaId": 2,
+    "aulaDes": 19,
+    "capienza": 20,
+    "poloDes": 16,
+    "date": "2020-11-03T13:36:02.527Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec2",
+    "Sede": 3,
+    "aulaId": 5,
+    "aulaDes": 50,
+    "capienza": 87,
+    "poloDes": 8,
+    "date": "2020-11-25T15:15:58.454Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec3",
+    "Sede": 3,
+    "aulaId": 3,
+    "aulaDes": 81,
+    "capienza": 10,
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.825Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fa87aad1bd2a03f4641a13c",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa87aad1bd2a03f4641a130"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec4",
+    "Sede": 3,
+    "aulaId": 6,
+    "aulaDes": 82,
+    "capienza": "0",
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.825Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec5",
+    "Sede": 3,
+    "aulaId": 3,
+    "aulaDes": 14,
+    "capienza": 32,
+    "poloDes": 16,
+    "date": "2020-12-02T10:27:12.477Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec6",
+    "Sede": 3,
+    "aulaId": 3,
+    "aulaDes": 16,
+    "capienza": 32,
+    "poloDes": 8,
+    "date": "2020-12-16T09:25:21.239Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec7",
+    "Sede": 3,
+    "aulaId": 2,
+    "aulaDes": 83,
+    "capienza": 10,
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.825Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec8",
+    "Sede": 3,
+    "aulaId": 5,
+    "aulaDes": 84,
+    "capienza": 5,
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.825Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ec9",
+    "Sede": 3,
+    "aulaId": 5,
+    "aulaDes": 85,
+    "capienza": 12,
+    "poloDes": 16,
+    "date": "2020-09-17T12:26:00.096Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eca",
+    "Sede": 3,
+    "aulaId": 4,
+    "aulaDes": 41,
+    "capienza": 10,
+    "poloDes": 8,
+    "date": "2020-11-24T07:53:49.044Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ecb",
+    "Sede": 3,
+    "aulaId": 1,
+    "aulaDes": 13,
+    "capienza": 22,
+    "poloDes": 22,
+    "date": "2020-11-03T18:02:56.271Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ecc",
+    "Sede": 3,
+    "aulaId": 4,
+    "aulaDes": 86,
+    "capienza": 10,
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.826Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ecd",
+    "Sede": 2,
+    "aulaId": 2,
+    "aulaDes": 42,
+    "capienza": 56,
+    "poloDes": 17,
+    "date": "2020-12-10T14:15:15.583Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ece",
+    "Sede": 3,
+    "aulaId": 4,
+    "aulaDes": 21,
+    "capienza": 23,
+    "poloDes": 16,
+    "date": "2020-12-15T07:57:57.523Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ecf",
+    "Sede": 3,
+    "aulaId": 1,
+    "aulaDes": 76,
+    "capienza": 21,
+    "poloDes": 8,
+    "date": "2020-10-14T09:17:50.618Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed0",
+    "Sede": 3,
+    "aulaId": 7,
+    "aulaDes": 87,
+    "capienza": "0",
+    "poloDes": 22,
+    "date": "2020-09-17T12:26:00.098Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed1",
+    "Sede": 2,
+    "aulaId": 3,
+    "aulaDes": 27,
+    "capienza": 14,
+    "poloDes": 14,
+    "date": "2020-12-11T09:24:22.533Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed2",
+    "Sede": 2,
+    "aulaId": 1,
+    "aulaDes": 38,
+    "capienza": 46,
+    "poloDes": 14,
+    "date": "2020-12-16T09:03:13.379Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed3",
+    "Sede": 2,
+    "aulaId": 1,
+    "aulaDes": 37,
+    "capienza": 38,
+    "poloDes": 17,
+    "date": "2020-12-15T17:54:01.225Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed4",
+    "Sede": 2,
+    "aulaId": 3,
+    "aulaDes": 33,
+    "capienza": 40,
+    "poloDes": 17,
+    "date": "2020-12-15T15:09:27.401Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed5",
+    "Sede": 3,
+    "aulaId": 2,
+    "aulaDes": 12,
+    "capienza": 32,
+    "poloDes": 8,
+    "date": "2020-12-03T17:23:07.483Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed6",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 11,
+    "capienza": 247,
+    "poloDes": 6,
+    "date": "2020-12-15T11:14:07.997Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed7",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 44,
+    "capienza": 30,
+    "poloDes": 19,
+    "date": "2020-11-16T09:42:09.338Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed8",
+    "Sede": 2,
+    "aulaId": 6,
+    "aulaDes": 24,
+    "capienza": 48,
+    "poloDes": 14,
+    "date": "2020-12-16T09:02:38.513Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ed9",
+    "Sede": 1,
+    "aulaId": 10,
+    "aulaDes": 2,
+    "capienza": 60,
+    "poloDes": 5,
+    "date": "2020-12-16T10:13:49.336Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eda",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 5,
+    "capienza": 22,
+    "poloDes": 3,
+    "date": "2020-12-15T08:13:17.804Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8edb",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 6,
+    "capienza": 45,
+    "poloDes": 3,
+    "date": "2020-12-15T14:09:18.281Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8edc",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 23,
+    "capienza": 45,
+    "poloDes": 3,
+    "date": "2020-12-01T09:58:13.301Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8edd",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 3,
+    "capienza": 25,
+    "poloDes": 3,
+    "date": "2020-12-16T10:13:16.221Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ede",
+    "Sede": 3,
+    "aulaId": 3,
+    "aulaDes": 88,
+    "capienza": 8,
+    "poloDes": 23,
+    "date": "2020-09-17T12:26:00.101Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8edf",
+    "Sede": 3,
+    "aulaId": 4,
+    "aulaDes": 89,
+    "capienza": 20,
+    "poloDes": 23,
+    "date": "2020-09-17T12:26:00.102Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee0",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 5,
+    "capienza": 26,
+    "poloDes": 6,
+    "date": "2020-11-09T14:53:11.204Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee1",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 6,
+    "capienza": 26,
+    "poloDes": 6,
+    "date": "2020-11-09T10:06:23.508Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee2",
+    "Sede": 1,
+    "aulaId": 4,
+    "aulaDes": 23,
+    "capienza": 30,
+    "poloDes": 6,
+    "date": "2020-09-17T12:26:00.102Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee3",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 3,
+    "capienza": 30,
+    "poloDes": 6,
+    "date": "2020-09-17T12:26:00.102Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee4",
+    "Sede": 2,
+    "aulaId": 8,
+    "aulaDes": 26,
+    "capienza": 13,
+    "poloDes": 14,
+    "date": "2020-12-14T16:44:54.789Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee5",
+    "Sede": 2,
+    "aulaId": 9,
+    "aulaDes": 47,
+    "capienza": 16,
+    "poloDes": 14,
+    "date": "2020-12-14T18:01:59.570Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee6",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 20,
+    "capienza": 102,
+    "poloDes": 13,
+    "date": "2020-12-15T15:42:42.124Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee7",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 32,
+    "capienza": 40,
+    "poloDes": 13,
+    "date": "2020-12-16T10:04:54.299Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fd7439eff3b76b96dd79018",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd7439eff3b76b96dd7900c"
+      },
+      {
+        "_id": "5fbe102f9de5cadc7a76942d",
+        "day": "26",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbe102f9de5cadc7a769421"
+      },
+      {
+        "_id": "5fb8088047f18b6282e26905",
+        "day": "23",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb8088047f18b6282e268f9"
+      },
+      {
+        "_id": "5fb4470a47f18b6282e260a4",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4470a47f18b6282e26098"
+      },
+      {
+        "_id": "5fad311964f3b8af34547c9d",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fad311964f3b8af34547c91"
+      },
+      {
+        "_id": "5facef9c64f3b8af34547b7f",
+        "day": "13",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5facef9c64f3b8af34547b73"
+      },
+      {
+        "_id": "5fab1be31bd2a03f4641a8ad",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fab1be31bd2a03f4641a8a1"
+      },
+      {
+        "_id": "5fa9bb261bd2a03f4641a4cc",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa9bb261bd2a03f4641a4c0"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ee8",
+    "Sede": 3,
+    "aulaId": 1,
+    "aulaDes": 90,
+    "capienza": 25,
+    "poloDes": 23,
+    "date": "2020-09-17T12:39:22.856Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eea",
+    "Sede": 4,
+    "aulaId": 8,
+    "aulaDes": 91,
+    "capienza": 22,
+    "poloDes": 9,
+    "date": "2020-10-26T16:05:22.517Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eeb",
+    "Sede": 4,
+    "aulaId": 9,
+    "aulaDes": 45,
+    "capienza": 60,
+    "poloDes": 9,
+    "date": "2020-12-15T08:47:26.787Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eec",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 92,
+    "capienza": 6,
+    "poloDes": 21,
+    "date": "2020-09-17T12:26:00.104Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eed",
+    "Sede": 4,
+    "aulaId": 10,
+    "aulaDes": 93,
+    "capienza": 18,
+    "poloDes": 9,
+    "date": "2020-09-17T12:26:00.104Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eee",
+    "Sede": 2,
+    "aulaId": 10,
+    "aulaDes": 58,
+    "capienza": 31,
+    "poloDes": 4,
+    "date": "2020-12-16T09:41:26.771Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fbcef239de5cadc7a769183",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbcef239de5cadc7a769177"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eef",
+    "Sede": 2,
+    "aulaId": 1,
+    "aulaDes": 9,
+    "capienza": 44,
+    "poloDes": 4,
+    "date": "2020-12-16T10:05:58.430Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef0",
+    "Sede": 2,
+    "aulaId": 2,
+    "aulaDes": 30,
+    "capienza": 13,
+    "poloDes": 4,
+    "date": "2020-11-10T11:36:29.319Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fd0a1b68cf562071a9c1ac0",
+        "day": "9",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd0a1b68cf562071a9c1ab4"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef1",
+    "Sede": 2,
+    "aulaId": 3,
+    "aulaDes": 68,
+    "capienza": 22,
+    "poloDes": 4,
+    "date": "2020-12-15T17:50:10.645Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef2",
+    "Sede": 2,
+    "aulaId": 4,
+    "aulaDes": 4,
+    "capienza": 42,
+    "poloDes": 4,
+    "date": "2020-12-15T17:16:02.588Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef3",
+    "Sede": 1,
+    "aulaId": 6,
+    "aulaDes": 94,
+    "capienza": 5,
+    "poloDes": 3,
+    "date": "2020-09-17T12:26:00.106Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef4",
+    "Sede": 2,
+    "aulaId": 12,
+    "aulaDes": 95,
+    "capienza": 30,
+    "poloDes": 20,
+    "date": "2020-09-11T20:01:02.414Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef5",
+    "Sede": 3,
+    "aulaId": 7,
+    "aulaDes": 96,
+    "capienza": 30,
+    "poloDes": 23,
+    "date": "2020-10-30T11:52:01.536Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef6",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 97,
+    "capienza": 10,
+    "poloDes": 24,
+    "date": "2020-11-03T11:38:20.393Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef7",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 98,
+    "capienza": 15,
+    "poloDes": 24,
+    "date": "2020-09-17T12:26:00.107Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef8",
+    "Sede": 1,
+    "aulaId": 3,
+    "aulaDes": 99,
+    "capienza": 19,
+    "poloDes": 24,
+    "date": "2020-11-03T11:42:26.369Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8ef9",
+    "Sede": 2,
+    "aulaId": 5,
+    "aulaDes": 28,
+    "capienza": 24,
+    "poloDes": 4,
+    "date": "2020-12-10T14:09:57.949Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8efa",
+    "Sede": 2,
+    "aulaId": 6,
+    "aulaDes": 22,
+    "capienza": 12,
+    "poloDes": 4,
+    "date": "2020-12-16T08:51:01.996Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8efb",
+    "Sede": 2,
+    "aulaId": 7,
+    "aulaDes": 100,
+    "capienza": 22,
+    "poloDes": 4,
+    "date": "2020-10-30T08:46:24.527Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8efc",
+    "Sede": 2,
+    "aulaId": 8,
+    "aulaDes": 8,
+    "capienza": 42,
+    "poloDes": 4,
+    "date": "2020-12-15T18:04:40.627Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8efd",
+    "Sede": 2,
+    "aulaId": 9,
+    "aulaDes": 67,
+    "capienza": 42,
+    "poloDes": 4,
+    "date": "2020-12-01T15:00:13.540Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fc64f83f4d5216c0f6cf7d9",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc64f83f4d5216c0f6cf7cd"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8efe",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 101,
+    "capienza": 36,
+    "poloDes": 21,
+    "date": "2020-09-17T12:26:00.112Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8eff",
+    "Sede": 3,
+    "aulaId": 9,
+    "aulaDes": 102,
+    "capienza": 5,
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.828Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f00",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 61,
+    "capienza": 14,
+    "poloDes": 3,
+    "date": "2020-11-25T17:19:53.438Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f01",
+    "Sede": 1,
+    "aulaId": 2,
+    "aulaDes": 52,
+    "capienza": 12,
+    "poloDes": 10,
+    "date": "2020-12-15T17:28:55.995Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f02",
+    "Sede": 3,
+    "aulaId": 5,
+    "aulaDes": 103,
+    "capienza": 15,
+    "poloDes": 23,
+    "date": "2020-09-17T12:26:00.113Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f03",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 66,
+    "capienza": 60,
+    "poloDes": 21,
+    "date": "2020-12-01T11:19:23.969Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f04",
+    "Sede": 3,
+    "aulaId": 6,
+    "aulaDes": 104,
+    "capienza": 15,
+    "poloDes": 23,
+    "date": "2020-09-17T12:26:00.122Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f05",
+    "Sede": 1,
+    "aulaId": 7,
+    "aulaDes": 39,
+    "capienza": 20,
+    "poloDes": 1,
+    "date": "2020-12-14T16:50:03.690Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5fbe58ba9de5cadc7a769635",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fbe58ba9de5cadc7a769629"
+      },
+      {
+        "_id": "5fbe57df9de5cadc7a7695fa",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fbe57df9de5cadc7a7695ee"
+      },
+      {
+        "_id": "5fb4fdf447f18b6282e262c9",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4fdf447f18b6282e262bd"
+      },
+      {
+        "_id": "5fb4211c47f18b6282e26061",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4211c47f18b6282e26055"
+      },
+      {
+        "_id": "5fad2f4264f3b8af34547c84",
+        "day": "12",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fad2f4264f3b8af34547c78"
+      },
+      {
+        "_id": "5facd88164f3b8af34547ae0",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5facd88164f3b8af34547ad4"
+      },
+      {
+        "_id": "5fabeb0364f3b8af345479ec",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fabeb0364f3b8af345479e0"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f06",
+    "Sede": 1,
+    "aulaId": 11,
+    "aulaDes": 105,
+    "capienza": 12,
+    "poloDes": 5,
+    "date": "2020-10-19T16:14:32.577Z",
+    "scheduleType": [],
+    "schedules": [
+      {
+        "_id": "5f96a3279d8613093006749e",
+        "day": "26",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f96a3279d86130930067492"
+      },
+      {
+        "_id": "5f8ee361eed6f0d6353f8ac9",
+        "day": "21",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f8ee361eed6f0d6353f8abd"
+      },
+      {
+        "_id": "5f8d80b2eed6f0d6353f7dea",
+        "day": "19",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f8d80b2eed6f0d6353f7dde"
+      },
+      {
+        "_id": "5f8d3752526f829d642c724a",
+        "day": "20",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f8d3752526f829d642c723e"
+      },
+      {
+        "_id": "5f7b659230a8b4585e2db7c9",
+        "day": "6",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f7b659230a8b4585e2db7bd"
+      },
+      {
+        "_id": "5f7af559a6cbc553dfcd7ca7",
+        "day": "5",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f7af559a6cbc553dfcd7c9b"
+      },
+      {
+        "_id": "5f782d8db8a1c2191cb5ab36",
+        "day": "7",
+        "month": "10",
+        "year": "2020",
+        "roomSchedule": "5f782d8db8a1c2191cb5ab2a"
+      },
+      {
+        "_id": "5f732c5df3192e854e2d2721",
+        "day": "29",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f732c5df3192e854e2d2715"
+      },
+      {
+        "_id": "5f678c526eeef72576d9397b",
+        "day": "21",
+        "month": "9",
+        "year": "2020",
+        "roomSchedule": "5f678c526eeef72576d9396f"
+      }
+    ]
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f07",
+    "Sede": 1,
+    "aulaId": 5,
+    "aulaDes": 106,
+    "capienza": 12,
+    "poloDes": 12,
+    "date": "2020-11-03T12:02:58.400Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f08",
+    "Sede": 1,
+    "aulaId": 1,
+    "aulaDes": 107,
+    "capienza": 53,
+    "poloDes": 25,
+    "date": "2020-10-22T10:58:19.138Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f09",
+    "Sede": 3,
+    "aulaId": 8,
+    "aulaDes": 108,
+    "capienza": 10,
+    "poloDes": 22,
+    "date": "2020-09-12T16:12:17.829Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f0a",
+    "Sede": 3,
+    "aulaId": 2,
+    "aulaDes": 109,
+    "capienza": 8,
+    "poloDes": 23,
+    "date": "2020-09-12T16:12:17.829Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5b4fdd400b9fbfbe0b8f0b",
+    "Sede": 3,
+    "aulaId": 8,
+    "aulaDes": 110,
+    "capienza": 12,
+    "poloDes": 23,
+    "date": "2020-09-28T11:23:38.368Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f5bd4928db89350a13a80d8",
+    "Sede": 2,
+    "aulaDes": 111,
+    "capienza": 12,
+    "poloDes": 17,
+    "date": "2020-09-11T19:48:34.478Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fc55f07f4d5216c0f6cf462",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc55f07f4d5216c0f6cf45d"
+      },
+      {
+        "_id": "5fbbf4c59de5cadc7a768f3e",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbbf4c59de5cadc7a768f39"
+      },
+      {
+        "_id": "5fba3ef947f18b6282e2696d",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fba3ef947f18b6282e26968"
+      },
+      {
+        "_id": "5fb28c1933a4610e6576a192",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb28c1933a4610e6576a18d"
+      },
+      {
+        "_id": "5fae6e9833a4610e65769d29",
+        "day": "13",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fae6e9833a4610e65769d24"
+      },
+      {
+        "_id": "5fabbd0a1bd2a03f4641aa8c",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fabbd0a1bd2a03f4641aa87"
+      },
+      {
+        "_id": "5faa8adf1bd2a03f4641a6a9",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5faa8adf1bd2a03f4641a6a4"
+      },
+      {
+        "_id": "5fa933751bd2a03f4641a333",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa933751bd2a03f4641a32e"
+      },
+      {
+        "_id": "5fa452e3052eb9e24c1bc28e",
+        "day": "6",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa452e3052eb9e24c1bc289"
+      }
+    ]
+  },
+  {
+    "_id": "5f5bd5fafc7a3450ea06e81c",
+    "Sede": 1,
+    "aulaDes": 112,
+    "capienza": 11,
+    "poloDes": 26,
+    "date": "2020-09-11T19:54:34.454Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      },
+      {
+        "start": "18.30",
+        "end": "20.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd9dd43ff3b76b96dd79886",
+        "day": "17",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd9dd43ff3b76b96dd79880"
+      },
+      {
+        "_id": "5fd914c7ff3b76b96dd79684",
+        "day": "16",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd914c7ff3b76b96dd7967e"
+      },
+      {
+        "_id": "5fd880ebff3b76b96dd7939c",
+        "day": "22",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd880ebff3b76b96dd79396"
+      },
+      {
+        "_id": "5fd71912ff3b76b96dd78e53",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd71912ff3b76b96dd78e4d"
+      },
+      {
+        "_id": "5fd61f61ff3b76b96dd78ccd",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd61f61ff3b76b96dd78cc7"
+      },
+      {
+        "_id": "5fd289d18cf562071a9c1f36",
+        "day": "11",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd289d18cf562071a9c1f30"
+      },
+      {
+        "_id": "5fcf4b918cf562071a9c1883",
+        "day": "8",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcf4b918cf562071a9c187d"
+      },
+      {
+        "_id": "5fcdd0fa8cf562071a9c1785",
+        "day": "10",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcdd0fa8cf562071a9c177f"
+      },
+      {
+        "_id": "5fcdd0e98cf562071a9c177c",
+        "day": "9",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcdd0e98cf562071a9c1776"
+      },
+      {
+        "_id": "5fc95447eb6dbced74b94f7b",
+        "day": "7",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc95447eb6dbced74b94f75"
+      },
+      {
+        "_id": "5fc932f9eb6dbced74b94f34",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc932f9eb6dbced74b94f2e"
+      },
+      {
+        "_id": "5fc7543121015899996e908d",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc7543121015899996e9087"
+      },
+      {
+        "_id": "5fc6665321015899996e8e7c",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc6665321015899996e8e76"
+      },
+      {
+        "_id": "5fc4d04cf4d5216c0f6cf2a8",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc4d04cf4d5216c0f6cf2a2"
+      },
+      {
+        "_id": "5fc0bd769de5cadc7a769ca4",
+        "day": "30",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fc0bd769de5cadc7a769c9e"
+      },
+      {
+        "_id": "5fbf68069de5cadc7a769821",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbf68069de5cadc7a76981b"
+      },
+      {
+        "_id": "5fbdd1e59de5cadc7a7693b0",
+        "day": "26",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbdd1e59de5cadc7a7693aa"
+      },
+      {
+        "_id": "5fbb67e547f18b6282e26a1a",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbb67e547f18b6282e26a14"
+      },
+      {
+        "_id": "5fbb67d747f18b6282e26a11",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbb67d747f18b6282e26a0b"
+      },
+      {
+        "_id": "5fb7e37d47f18b6282e268f2",
+        "day": "23",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb7e37d47f18b6282e268ec"
+      },
+      {
+        "_id": "5fb60d7347f18b6282e26520",
+        "day": "20",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb60d7347f18b6282e2651a"
+      },
+      {
+        "_id": "5fb2fc1033a4610e6576a254",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb2fc1033a4610e6576a24e"
+      },
+      {
+        "_id": "5fb2b36633a4610e6576a1c6",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb2b36633a4610e6576a1c0"
+      },
+      {
+        "_id": "5fae3bdc64f3b8af34547dfc",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fae3bdc64f3b8af34547df6"
+      },
+      {
+        "_id": "5facf99f64f3b8af34547b9f",
+        "day": "13",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5facf99f64f3b8af34547b99"
+      },
+      {
+        "_id": "5face82164f3b8af34547b14",
+        "day": "19",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5face82164f3b8af34547b0e"
+      },
+      {
+        "_id": "5fa8fb591bd2a03f4641a1ef",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa8fb591bd2a03f4641a1e9"
+      },
+      {
+        "_id": "5fa8267c1bd2a03f4641a09f",
+        "day": "12",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa8267c1bd2a03f4641a099"
+      },
+      {
+        "_id": "5fa5dc8d052eb9e24c1bc428",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa5dc8d052eb9e24c1bc422"
+      },
+      {
+        "_id": "5fa3e8dc052eb9e24c1bc1db",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa3e8dc052eb9e24c1bc1d5"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc50bfc7a3450ea06e834",
+    "Sede": 1,
+    "aulaDes": 113,
+    "capienza": 35,
+    "poloDes": 27,
+    "date": "2020-09-23T14:50:46.622Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      },
+      {
+        "start": "18.30",
+        "end": "20.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd64a4aff3b76b96dd78d0b",
+        "day": "18",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd64a4aff3b76b96dd78d05"
+      },
+      {
+        "_id": "5fd64a3fff3b76b96dd78d02",
+        "day": "17",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd64a3fff3b76b96dd78cfc"
+      },
+      {
+        "_id": "5fd5d654ff3b76b96dd78c94",
+        "day": "16",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd5d654ff3b76b96dd78c8e"
+      },
+      {
+        "_id": "5fd5d63aff3b76b96dd78c8b",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd5d63aff3b76b96dd78c85"
+      },
+      {
+        "_id": "5fd5367cff3b76b96dd78c51",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd5367cff3b76b96dd78c4b"
+      },
+      {
+        "_id": "5fce46c88cf562071a9c1805",
+        "day": "10",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fce46c88cf562071a9c17ff"
+      },
+      {
+        "_id": "5fcd59ca8cf562071a9c174f",
+        "day": "8",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcd59ca8cf562071a9c1749"
+      },
+      {
+        "_id": "5fca9dc18cf562071a9c15f4",
+        "day": "9",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fca9dc18cf562071a9c15ee"
+      },
+      {
+        "_id": "5fc9c7a7eb6dbced74b94fe9",
+        "day": "11",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc9c7a7eb6dbced74b94fe3"
+      },
+      {
+        "_id": "5fc681a621015899996e8ed2",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc681a621015899996e8ecc"
+      },
+      {
+        "_id": "5fc6819921015899996e8ec9",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc6819921015899996e8ec3"
+      },
+      {
+        "_id": "5fc530f6f4d5216c0f6cf421",
+        "day": "7",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc530f6f4d5216c0f6cf41b"
+      },
+      {
+        "_id": "5fc33e797b7ad540c1b7e842",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc33e797b7ad540c1b7e83c"
+      },
+      {
+        "_id": "5fc33e4f7b7ad540c1b7e837",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc33e4f7b7ad540c1b7e831"
+      },
+      {
+        "_id": "5fc0022e9de5cadc7a769a07",
+        "day": "30",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fc0022e9de5cadc7a769a01"
+      },
+      {
+        "_id": "5fbe22809de5cadc7a76953a",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbe22809de5cadc7a769534"
+      },
+      {
+        "_id": "5fbbd83a9de5cadc7a768f18",
+        "day": "26",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbbd83a9de5cadc7a768f12"
+      },
+      {
+        "_id": "5fbbcd859de5cadc7a768ee2",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbbcd859de5cadc7a768edc"
+      },
+      {
+        "_id": "5fb82e0747f18b6282e26910",
+        "day": "23",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb82e0747f18b6282e2690a"
+      },
+      {
+        "_id": "5fb7e22d47f18b6282e268e7",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb7e22d47f18b6282e268e1"
+      },
+      {
+        "_id": "5fb571ed47f18b6282e26441",
+        "day": "20",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb571ed47f18b6282e2643b"
+      },
+      {
+        "_id": "5fb2cd4633a4610e6576a1ea",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb2cd4633a4610e6576a1e4"
+      },
+      {
+        "_id": "5fb12ebe33a4610e65769e7c",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb12ebe33a4610e65769e76"
+      },
+      {
+        "_id": "5face7aa64f3b8af34547b07",
+        "day": "19",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5face7aa64f3b8af34547b01"
+      },
+      {
+        "_id": "5fa8fcf21bd2a03f4641a213",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa8fcf21bd2a03f4641a20d"
+      },
+      {
+        "_id": "5fa8fc9b1bd2a03f4641a209",
+        "day": "13",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa8fc9b1bd2a03f4641a203"
+      },
+      {
+        "_id": "5fa8fc3d1bd2a03f4641a1fd",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa8fc3d1bd2a03f4641a1f7"
+      },
+      {
+        "_id": "5fa54a5e052eb9e24c1bc38b",
+        "day": "12",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa54a5e052eb9e24c1bc385"
+      },
+      {
+        "_id": "5fa51af9052eb9e24c1bc30a",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa51af9052eb9e24c1bc304"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc55bfc7a3450ea06e835",
+    "Sede": 1,
+    "aulaDes": 114,
+    "capienza": 10,
+    "poloDes": 11,
+    "date": "2020-09-12T12:55:55.346Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd9bec4ff3b76b96dd7975f",
+        "day": "17",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd9bec4ff3b76b96dd7975a"
+      },
+      {
+        "_id": "5fd7198cff3b76b96dd78e63",
+        "day": "16",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd7198cff3b76b96dd78e5e"
+      },
+      {
+        "_id": "5fd6062cff3b76b96dd78cb4",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd6062cff3b76b96dd78caf"
+      },
+      {
+        "_id": "5fd0ce1c8cf562071a9c1b59",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd0ce1c8cf562071a9c1b54"
+      },
+      {
+        "_id": "5fd09e268cf562071a9c1a8d",
+        "day": "10",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd09e268cf562071a9c1a88"
+      },
+      {
+        "_id": "5fd082d98cf562071a9c199c",
+        "day": "11",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd082d98cf562071a9c1997"
+      },
+      {
+        "_id": "5fcd82b78cf562071a9c1769",
+        "day": "9",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcd82b78cf562071a9c1764"
+      },
+      {
+        "_id": "5fc927dfeb6dbced74b94f20",
+        "day": "7",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc927dfeb6dbced74b94f1b"
+      },
+      {
+        "_id": "5fc89b4b21015899996e93ad",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc89b4b21015899996e93a8"
+      },
+      {
+        "_id": "5fc3f12cf4d5216c0f6cf068",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc3f12cf4d5216c0f6cf063"
+      },
+      {
+        "_id": "5fbf568d9de5cadc7a769787",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fbf568d9de5cadc7a769782"
+      },
+      {
+        "_id": "5fbf567d9de5cadc7a76977f",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fbf567d9de5cadc7a76977a"
+      },
+      {
+        "_id": "5fbf56679de5cadc7a769776",
+        "day": "30",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbf56679de5cadc7a769771"
+      },
+      {
+        "_id": "5fbf563b9de5cadc7a76976e",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbf563b9de5cadc7a769769"
+      },
+      {
+        "_id": "5fb4c41147f18b6282e26116",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4c41147f18b6282e26111"
+      },
+      {
+        "_id": "5fb4c3ff47f18b6282e2610e",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4c3ff47f18b6282e26109"
+      },
+      {
+        "_id": "5fb4c3c547f18b6282e26106",
+        "day": "23",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4c3c547f18b6282e26101"
+      },
+      {
+        "_id": "5fb4c39a47f18b6282e260fe",
+        "day": "20",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4c39a47f18b6282e260f9"
+      },
+      {
+        "_id": "5fb4c38247f18b6282e260f6",
+        "day": "19",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb4c38247f18b6282e260f1"
+      },
+      {
+        "_id": "5fb3d8ba33a4610e6576a4bc",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb3d8ba33a4610e6576a4b7"
+      },
+      {
+        "_id": "5fb27dfc33a4610e6576a15e",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb27dfc33a4610e6576a159"
+      },
+      {
+        "_id": "5fb1b01233a4610e65769f29",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb1b01233a4610e65769f24"
+      },
+      {
+        "_id": "5fae5a5733a4610e65769d03",
+        "day": "13",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fae5a5733a4610e65769cfe"
+      },
+      {
+        "_id": "5fab992a1bd2a03f4641a909",
+        "day": "12",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fab992a1bd2a03f4641a904"
+      },
+      {
+        "_id": "5faabab41bd2a03f4641a80e",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5faabab41bd2a03f4641a809"
+      },
+      {
+        "_id": "5fa968cf1bd2a03f4641a43d",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa968cf1bd2a03f4641a438"
+      },
+      {
+        "_id": "5fa52f17052eb9e24c1bc34c",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa52f17052eb9e24c1bc347"
+      },
+      {
+        "_id": "5fa52aab052eb9e24c1bc33b",
+        "day": "6",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa52aab052eb9e24c1bc336"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc627fc7a3450ea06e836",
+    "Sede": 2,
+    "aulaDes": 114,
+    "capienza": 3,
+    "poloDes": 20,
+    "date": "2020-09-12T12:59:19.689Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fbfe5119de5cadc7a7699f1",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbfe5119de5cadc7a7699ec"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc686fc7a3450ea06e837",
+    "Sede": 4,
+    "aulaDes": 114,
+    "capienza": 4,
+    "poloDes": 9,
+    "date": "2020-09-12T13:00:54.985Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd7d90bff3b76b96dd7925a",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd7d90bff3b76b96dd79255"
+      },
+      {
+        "_id": "5fd65020ff3b76b96dd78d15",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd65020ff3b76b96dd78d10"
+      },
+      {
+        "_id": "5fb26a4633a4610e6576a0c8",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb26a4633a4610e6576a0c3"
+      },
+      {
+        "_id": "5fafdcce33a4610e65769e4e",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fafdcce33a4610e65769e49"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc739fc7a3450ea06e838",
+    "Sede": 1,
+    "aulaDes": 115,
+    "capienza": 10,
+    "poloDes": 10,
+    "date": "2020-09-12T13:03:53.440Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": [],
+        "availability": [1, 2, 3, 4, 5]
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": [],
+        "availability": [1, 2, 3, 4, 5]
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": [],
+        "availability": [2, 4]
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": [],
+        "availability": [2, 4]
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd8ad27ff3b76b96dd79488",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd8ad27ff3b76b96dd79483"
+      },
+      {
+        "_id": "5fd685fbff3b76b96dd78da7",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd685fbff3b76b96dd78da2"
+      },
+      {
+        "_id": "5fc94cb0eb6dbced74b94f57",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc94cb0eb6dbced74b94f52"
+      },
+      {
+        "_id": "5fc8bce921015899996e947d",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc8bce921015899996e9478"
+      },
+      {
+        "_id": "5fc6ac8f21015899996e8f11",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc6ac8f21015899996e8f0c"
+      },
+      {
+        "_id": "5fc62e22f4d5216c0f6cf6a6",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc62e22f4d5216c0f6cf6a1"
+      },
+      {
+        "_id": "5fc3ec99f4d5216c0f6cf058",
+        "day": "30",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fc3ec99f4d5216c0f6cf053"
+      },
+      {
+        "_id": "5fbee82a9de5cadc7a76975a",
+        "day": "26",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbee82a9de5cadc7a769755"
+      },
+      {
+        "_id": "5fbc197e9de5cadc7a768f5c",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbc197e9de5cadc7a768f57"
+      },
+      {
+        "_id": "5fb6781647f18b6282e266e1",
+        "day": "19",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb6781647f18b6282e266dc"
+      },
+      {
+        "_id": "5fb2fcef33a4610e6576a267",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb2fcef33a4610e6576a262"
+      },
+      {
+        "_id": "5fb105cc33a4610e65769e69",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb105cc33a4610e65769e64"
+      },
+      {
+        "_id": "5fa971f71bd2a03f4641a448",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa971f71bd2a03f4641a443"
+      },
+      {
+        "_id": "5fa859611bd2a03f4641a0e5",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa859611bd2a03f4641a0e0"
+      },
+      {
+        "_id": "5fa472e7052eb9e24c1bc2b5",
+        "day": "6",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa472e7052eb9e24c1bc2b0"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc781fc7a3450ea06e839",
+    "Sede": 1,
+    "aulaDes": 116,
+    "capienza": 10,
+    "poloDes": 12,
+    "date": "2020-09-12T13:05:05.383Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd93c79ff3b76b96dd796d8",
+        "day": "16",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd93c79ff3b76b96dd796d3"
+      },
+      {
+        "_id": "5fd69b74ff3b76b96dd78dfc",
+        "day": "14",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd69b74ff3b76b96dd78df7"
+      },
+      {
+        "_id": "5fd33a0c8cf562071a9c1fe4",
+        "day": "11",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd33a0c8cf562071a9c1fdf"
+      },
+      {
+        "_id": "5fd208818cf562071a9c1dca",
+        "day": "10",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd208818cf562071a9c1dc5"
+      },
+      {
+        "_id": "5fd0cee78cf562071a9c1b78",
+        "day": "15",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd0cee78cf562071a9c1b73"
+      },
+      {
+        "_id": "5fcfe1748cf562071a9c190b",
+        "day": "9",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcfe1748cf562071a9c1906"
+      },
+      {
+        "_id": "5fcd3fec8cf562071a9c1721",
+        "day": "7",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcd3fec8cf562071a9c171c"
+      },
+      {
+        "_id": "5fc95689eb6dbced74b94f85",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc95689eb6dbced74b94f80"
+      },
+      {
+        "_id": "5fc75a0121015899996e90ad",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc75a0121015899996e90a8"
+      },
+      {
+        "_id": "5fc7478121015899996e8f73",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc7478121015899996e8f6e"
+      },
+      {
+        "_id": "5fc61b51f4d5216c0f6cf64f",
+        "day": "1",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc61b51f4d5216c0f6cf64a"
+      },
+      {
+        "_id": "5fc44209f4d5216c0f6cf0e6",
+        "day": "30",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fc44209f4d5216c0f6cf0e1"
+      },
+      {
+        "_id": "5fc0c4529de5cadc7a769cd9",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fc0c4529de5cadc7a769cd4"
+      },
+      {
+        "_id": "5fbf7ce39de5cadc7a769881",
+        "day": "26",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbf7ce39de5cadc7a76987c"
+      },
+      {
+        "_id": "5fbe1fb79de5cadc7a76951b",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbe1fb79de5cadc7a769516"
+      },
+      {
+        "_id": "5fbcd4b39de5cadc7a7690ec",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbcd4b39de5cadc7a7690e7"
+      },
+      {
+        "_id": "5fbb7bb247f18b6282e26b4c",
+        "day": "23",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbb7bb247f18b6282e26b47"
+      },
+      {
+        "_id": "5fb6c75b47f18b6282e2677c",
+        "day": "20",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb6c75b47f18b6282e26777"
+      },
+      {
+        "_id": "5fb51b0547f18b6282e26335",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb51b0547f18b6282e26330"
+      },
+      {
+        "_id": "5fb2785433a4610e6576a0fd",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb2785433a4610e6576a0f8"
+      },
+      {
+        "_id": "5fb26b0933a4610e6576a0d3",
+        "day": "19",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb26b0933a4610e6576a0ce"
+      },
+      {
+        "_id": "5fabbe931bd2a03f4641aa9c",
+        "day": "12",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fabbe931bd2a03f4641aa97"
+      },
+      {
+        "_id": "5faa478b1bd2a03f4641a52c",
+        "day": "11",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5faa478b1bd2a03f4641a527"
+      },
+      {
+        "_id": "5fa92a841bd2a03f4641a31e",
+        "day": "10",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa92a841bd2a03f4641a319"
+      },
+      {
+        "_id": "5fa71a3a1bd2a03f4641a033",
+        "day": "9",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa71a3a1bd2a03f4641a02e"
+      },
+      {
+        "_id": "5fa56114052eb9e24c1bc3c3",
+        "day": "6",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa56114052eb9e24c1bc3be"
+      },
+      {
+        "_id": "5fa2dda2052eb9e24c1bc06b",
+        "day": "5",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa2dda2052eb9e24c1bc066"
+      }
+    ]
+  },
+  {
+    "_id": "5f5cc7f1fc7a3450ea06e83a",
+    "Sede": 3,
+    "aulaDes": 117,
+    "capienza": 9,
+    "poloDes": 16,
+    "date": "2020-09-12T13:06:57.688Z",
+    "scheduleType": [
+      {
+        "start": "08.30",
+        "end": "10.30",
+        "persons": []
+      },
+      {
+        "start": "10.45",
+        "end": "12.45",
+        "persons": []
+      },
+      {
+        "start": "14.15",
+        "end": "16.15",
+        "persons": []
+      },
+      {
+        "start": "16.30",
+        "end": "18.30",
+        "persons": []
+      }
+    ],
+    "schedules": [
+      {
+        "_id": "5fd07dd38cf562071a9c197a",
+        "day": "10",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fd07dd38cf562071a9c1975"
+      },
+      {
+        "_id": "5fcf49408cf562071a9c1879",
+        "day": "9",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fcf49408cf562071a9c1874"
+      },
+      {
+        "_id": "5fc91a2beb6dbced74b94f0d",
+        "day": "4",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc91a2beb6dbced74b94f08"
+      },
+      {
+        "_id": "5fc778c721015899996e9158",
+        "day": "2",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc778c721015899996e9153"
+      },
+      {
+        "_id": "5fc60e77f4d5216c0f6cf5fe",
+        "day": "3",
+        "month": "12",
+        "year": "2020",
+        "roomSchedule": "5fc60e77f4d5216c0f6cf5f9"
+      },
+      {
+        "_id": "5fc03ae09de5cadc7a769c2c",
+        "day": "27",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fc03ae09de5cadc7a769c27"
+      },
+      {
+        "_id": "5fbe73229de5cadc7a7696bb",
+        "day": "26",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbe73229de5cadc7a7696b6"
+      },
+      {
+        "_id": "5fbd45509de5cadc7a76930f",
+        "day": "25",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbd45509de5cadc7a76930a"
+      },
+      {
+        "_id": "5fbcdc679de5cadc7a769121",
+        "day": "24",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbcdc679de5cadc7a76911c"
+      },
+      {
+        "_id": "5fbb82c147f18b6282e26b74",
+        "day": "23",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fbb82c147f18b6282e26b6f"
+      },
+      {
+        "_id": "5fb702db47f18b6282e267e3",
+        "day": "20",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb702db47f18b6282e267de"
+      },
+      {
+        "_id": "5fb6361f47f18b6282e265b6",
+        "day": "19",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb6361f47f18b6282e265b1"
+      },
+      {
+        "_id": "5fb449d647f18b6282e260c7",
+        "day": "18",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb449d647f18b6282e260c2"
+      },
+      {
+        "_id": "5fb3dede47f18b6282e26015",
+        "day": "17",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb3dede47f18b6282e26010"
+      },
+      {
+        "_id": "5fb17c9233a4610e65769ed5",
+        "day": "16",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fb17c9233a4610e65769ed0"
+      },
+      {
+        "_id": "5fac453564f3b8af34547a87",
+        "day": "12",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fac453564f3b8af34547a82"
+      },
+      {
+        "_id": "5fa3bbeb052eb9e24c1bc16a",
+        "day": "6",
+        "month": "11",
+        "year": "2020",
+        "roomSchedule": "5fa3bbeb052eb9e24c1bc165"
+      }
+    ]
+  },
+  {
+    "_id": "5f6decdd1f06210ab6a7dc64",
+    "Sede": 1,
+    "aulaDes": 65,
+    "capienza": 12,
+    "poloDes": 2,
+    "date": "2020-12-14T15:16:42.286Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f6decf21f06210ab6a7dc65",
+    "Sede": 1,
+    "aulaDes": 119,
+    "capienza": 12,
+    "poloDes": 2,
+    "date": "2020-09-25T13:13:22.406Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f6ded551f06210ab6a7dc66",
+    "Sede": 3,
+    "aulaDes": 59,
+    "capienza": 11,
+    "poloDes": 28,
+    "date": "2020-10-28T11:30:24.527Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f737e04ec1d278a16eca138",
+    "Sede": 2,
+    "aulaDes": 120,
+    "capienza": 40,
+    "poloDes": 4,
+    "date": "2020-10-02T08:20:17.246Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f737e3dec1d278a16eca139",
+    "Sede": 2,
+    "aulaDes": 121,
+    "capienza": 40,
+    "poloDes": 17,
+    "date": "2020-10-29T11:58:46.028Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f737e74ec1d278a16eca13a",
+    "Sede": 2,
+    "aulaDes": 62,
+    "capienza": 40,
+    "poloDes": 14,
+    "date": "2020-11-27T07:44:46.949Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f737f06ec1d278a16eca13c",
+    "Sede": 2,
+    "aulaDes": 63,
+    "capienza": 40,
+    "poloDes": 20,
+    "date": "2020-12-11T16:24:27.250Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f89c86991058191e876b74b",
+    "Sede": 2,
+    "aulaDes": 122,
+    "capienza": 9,
+    "poloDes": 20,
+    "date": "2020-10-20T13:19:43.648Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa4e32358534e7e6d4406",
+    "Sede": 1,
+    "aulaDes": 64,
+    "capienza": 63,
+    "poloDes": 12,
+    "date": "2020-12-02T16:57:37.146Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa5092358534e7e6d4407",
+    "Sede": 1,
+    "aulaDes": 48,
+    "capienza": 39,
+    "poloDes": 12,
+    "date": "2020-12-16T08:27:10.192Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa50f2358534e7e6d440a",
+    "Sede": 1,
+    "aulaDes": 49,
+    "capienza": 39,
+    "poloDes": 12,
+    "date": "2020-12-15T08:12:27.637Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa5222358534e7e6d440b",
+    "Sede": 1,
+    "aulaDes": 54,
+    "capienza": 2,
+    "poloDes": 12,
+    "date": "2020-12-15T16:56:55.119Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa52e2358534e7e6d440c",
+    "Sede": 1,
+    "aulaDes": 57,
+    "capienza": 5,
+    "poloDes": 12,
+    "date": "2020-12-03T11:19:28.027Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa5652358534e7e6d440d",
+    "Sede": 1,
+    "aulaDes": 56,
+    "capienza": 2,
+    "poloDes": 12,
+    "date": "2020-12-11T08:07:00.857Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9aa5722358534e7e6d440e",
+    "Sede": 1,
+    "aulaDes": 55,
+    "capienza": 6,
+    "poloDes": 12,
+    "date": "2020-12-16T10:04:01.525Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5f9ade072358534e7e6d469c",
+    "Sede": 3,
+    "aulaDes": 123,
+    "capienza": 50,
+    "poloDes": 29,
+    "date": "2020-10-29T15:21:43.206Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5fa05a957916daa867a158ae",
+    "Sede": 1,
+    "aulaDes": 31,
+    "capienza": 14,
+    "poloDes": 1,
+    "date": "2020-12-16T08:04:17.292Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5fa05aa77916daa867a158af",
+    "Sede": 1,
+    "aulaDes": 36,
+    "capienza": 9,
+    "poloDes": 1,
+    "date": "2020-12-16T09:46:29.789Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5fc95263eb6dbced74b94f68",
+    "Sede": 2,
+    "aulaDes": 124,
+    "capienza": 6,
+    "poloDes": 4,
+    "date": "2020-12-03T21:02:27.777Z",
+    "scheduleType": [],
+    "schedules": []
+  },
+  {
+    "_id": "5fca3ca8eb6dbced74b951b7",
+    "Sede": 2,
+    "aulaDes": 125,
+    "capienza": 13,
+    "poloDes": 14,
+    "date": "2020-12-04T13:42:00.827Z",
+    "scheduleType": [],
+    "schedules": []
+  }
+]
