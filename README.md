@@ -1,6 +1,6 @@
 # younicam-AI
 
-Machine Learning project developed using PySpark. 
+Machine Learning project developed in PySpark. 
 
 ## Authors
 
