@@ -8,13 +8,11 @@ from sklearn.pipeline import make_pipeline, make_union
 from sklearn.preprocessing import MinMaxScaler, RobustScaler
 from tpot.builtins import StackingEstimator
 
-# NOTE: Make sure that the outcome column is labeled 'target' in the data file
-tpot_data = pd.read_csv('PATH/TO/DATA/FILE', sep='COLUMN_SEPARATOR', dtype=np.float64)
+tpot_data = pd.read_json("../data/engineered/presences.json")
 features = tpot_data.drop('target', axis=1)
 training_features, testing_features, training_target, testing_target = \
             train_test_split(features, tpot_data['target'], random_state=None)
 
-# Average CV score on the training set was: -47.52158656317905
 exported_pipeline = make_pipeline(
     MinMaxScaler(),
     RobustScaler(),
@@ -24,4 +22,12 @@ exported_pipeline = make_pipeline(
 )
 
 exported_pipeline.fit(training_features, training_target)
-results = exported_pipeline.predict(testing_features)
+preds = exported_pipeline.predict(testing_features)
+
+np.savetxt("../predictions/preds.csv", preds, delimiter=",")
+
+accuracy = exported_pipeline.score(testing_features, testing_target)
+
+print("Accuracy:", accuracy)
+
+
