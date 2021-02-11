@@ -2,7 +2,7 @@
 
 Machine Learning project developed in Pyspark. The model uses the dataset related to the anonymized presences registered via the Younicam app in the University of Camerino buildings to predict the number of people in a room during a precise time interval.
 
-TPOT is used in the model training phase to get the best combination between the ML model and hyperparameters.
+[TPOT](https://epistasislab.github.io/tpot/) is used in the model training phase to get the best combination between the ML model and hyperparameters.
 
 ## Install dependencies 
 
