@@ -11,7 +11,7 @@ To install the project dependencies run the following command:
 ```bash
 pip3 install -r requirements.txt
 ```
-
+Notice that the TPOT pipeline needs some additional dependencies listed in the [TPOT installation docs](https://epistasislab.github.io/tpot/installing/).
 
 ## Structure
 
