@@ -3,6 +3,7 @@
 Machine Learning project developed in PySpark. The model uses the dataset related to the anonymized presences registered via the Younicam mobile application in the University of Camerino's buildings to predict the number of people in a room during a precise time interval.
 
 [TPOT](https://epistasislab.github.io/tpot/) is used in the model training phase to get the best combination between the ML model and hyperparameters.
+
 ## Get started
 
 ### Prerequisites
@@ -11,12 +12,7 @@ Machine Learning project developed in PySpark. The model uses the dataset relate
 * [Apache Spark](https://spark.apache.org/downloads.html)
 * [pip](https://pip.pypa.io/en/stable/installing/)
 * [Jupyter](https://jupyter.org/install)
-
-Install Pyspark:
-
-```bash
-pip install pyspark
-```
+* [PySpark](https://spark.apache.org/docs/latest/api/python/): `pip install pyspark`
 
 Under your home directory, find a file named .bash_profile or .bashrc or .zshrc. This name might be different in different operation system or version. After that, open the bash shell startup file and past the script below:
 
@@ -24,7 +20,7 @@ Under your home directory, find a file named .bash_profile or .bashrc or .zshrc.
 export SPARK_HOME="/your/home/directory/spark/python"
 export PATH="$SPARK_HOME/bin:$PATH"
 ```
-Now you are able to launch PySpark from each directory with the following command:
+Now you are able to launch PySpark from any directory with the following command:
 
 ```bash
 pyspark
@@ -41,19 +37,20 @@ Notice that the TPOT pipeline needs some additional dependencies listed in the [
 
 ## Usage
 
-Launch PySpark, as described above, and browse into the project directory to launch the notebooks.
+Launch PySpark, as described above, and browse into the project directory to execute the notebooks.
 
 If the Jupyter Notebook doesn't open automatically with PySpark, open it using the command below:
 
 ```bash
 jupyter notebook /path/to/notebook
 ```
+The *TPOT pipeline* notebook was used in order to find the best combination between ML model and hyperparameters. It outputs a .py pipeline to run the selected ML model with its configurations. We placed this piece of code inside the *Model Training* notebook in order to perform all the required work.
 
 ## Structure
 
 The repository has the following structure:
 
-* *data* : this folder contains the original dataset plus some other intermediary transformations
+* *data* : this folder contains the original dataset plus some other intermediary transformations in json format
 * *notebooks* : contains all the notebooks used during experimentation. There are a notebook for the collection and preparation phases, one for the training and evaluation phases and another one to execute the TPOT pipeline.
 * *predictions* : contains the final predictions results in csv format
 
