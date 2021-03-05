@@ -27,7 +27,7 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 export PYSPARK_DRIVER_PYTHON_OPTS=notebook
 ```
 
-Now you are able to launch PySpark from any directory with the following command:
+Now you are able to launch PySpark from any directory with the underneath command:
 
 ```bash
 pyspark
@@ -53,7 +53,7 @@ If the Jupyter Notebook doesn't open automatically with PySpark, open it using t
 jupyter notebook /path/to/notebook
 ```
 
-The *TPOT pipeline* notebook was used in order to find the best combination between ML model and hyperparameters. It outputs a .py pipeline to run the selected ML model with its configurations. We placed this piece of code inside the *Model Training* notebook in order to perform additional operation around the training.
+The *TPOT pipeline* notebook was used in order to find the best combination between ML model and hyperparameters. It outputs a .py pipeline to run the selected ML model with its configurations. We used the returned pipeline inside the *Model Training* notebook in order to perform additional operation around the training (e.g. save intermediate dataset, evaluation).
 
 ## Structure
 
